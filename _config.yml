@@ -1,0 +1,26 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+#relative_permalinks: true
+
+#dependencies
+gems: [jekyll-paginate]
+
+# Setup
+title:               Easy & Me
+tagline:             ''
+description:         'personal blog of @easyandme (Max). Made by <a href="https://github.com/maxim-xu" target="_blank">@easyandme</a>.'
+url:                 http://maxim-xu.github.io
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Max Xu
+  url:               https://github.com/maxim-xu
+  email:             xujialv@gmail.com
+
+# Custom vars
+version:             1.0.0
+github:              https://github.com/maxim-xu
