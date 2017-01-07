@@ -13,7 +13,7 @@ tagline:             ''
 description:         'personal blog of @easyandme (Max). Made by <a href="https://github.com/maxim-xu" target="_blank">@easyandme</a>.'
 url:                 http://maxim-xu.github.io
 baseurl:             ''
-paginate:            5
+paginate:            3
 
 # About/contact
 author:
