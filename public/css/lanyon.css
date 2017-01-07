@@ -65,6 +65,9 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
 }
 
+a[data-flickr-embed="false"] > img {
+  max-height: 384px;
+}
 
 /*
  * Container
