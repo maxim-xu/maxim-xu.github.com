@@ -67,6 +67,7 @@ h1, h2, h3, h4, h5, h6 {
 
 a[data-flickr-embed="false"] > img {
   max-height: 384px;
+  height: 100%;
 }
 
 /*
