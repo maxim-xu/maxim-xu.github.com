@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About Me
+title: About
 ---
- 
+<br />
 I am Max, a designer and developer who loves reading and audiobooks. I also take photos a lot. 
  
 I am based in Boston, MA.

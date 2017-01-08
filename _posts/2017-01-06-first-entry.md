@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Finally... A blog
-categories: personal blog
+categories: personal
 date:   2017-01-06 15:05:14 -0500
 ---
 

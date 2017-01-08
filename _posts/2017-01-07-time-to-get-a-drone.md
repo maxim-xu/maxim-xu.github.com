@@ -17,6 +17,7 @@ for a while and everytime he has a new drone video it'll literally stun me. Ever
 <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/ocp6qQdVucE?list=PLLDBcQy4Hgi58qpCMPTOb2lMz0EYkP2H0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 [click for the entire playlist](https://www.youtube.com/playlist?list=PLLDBcQy4Hgi58qpCMPTOb2lMz0EYkP2H0)
 </div>
+<br />
 So broad. The video was taken by DJI's Phantom 4 and it's 60FPS & 4K! Absolutely amazing quality and the turnarounds are smooth. I can 
 easily tell that the drone is super stable without flying it myself.
 
