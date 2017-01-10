@@ -25,7 +25,7 @@ only uploaded less than 160 public photos on Flickr, which, by all means, are my
 photos.
 
 You can probably see why I feel so encouraged now. The recognition from a prestigious stock provider 
-does give me a lot of confidence - one more _professional player_ out there!
+does give me a lot of confidence - another _professional player_ out there!
 
 Besides the congratulation, the notification email also contains three embedded images of the pictures
 that I uploaded previously, each along with a code - seems like these three have 
@@ -40,7 +40,9 @@ passed the editor's review. I have listed them below:
 
 A good subject might really help you win in the application process.
 
-
+Update*: It seems that iStock is full of both photographers and 'wanna-be' photographers now. After
+doing some research, I realize that I was just over excited. Though the market has no sign of gloom and doom, 
+the chance to get yourself some notice on iStock is little. Downloads, which means profit from royalties, will very likely   be negligible too.
   
   
   
