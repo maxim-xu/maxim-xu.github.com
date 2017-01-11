@@ -4,6 +4,7 @@ title: Here I come - Getty!
 tags: photography gettyimages
 categories: personal
 date:   2017-01-08 19:05:14 -0500
+comments: true
 ---
 
 Well...Sort of.

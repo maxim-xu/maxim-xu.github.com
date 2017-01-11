@@ -4,6 +4,7 @@ title: Maybe it's time to get a drone
 tags: photography
 categories: personal
 date:   2017-01-07 14:05:14 -0500
+comments: true
 ---
 
 Yes I'm talking about the drones from DJI.
