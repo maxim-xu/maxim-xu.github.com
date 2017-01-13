@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How I designed the logo of my own studio
+title: How I designed the logo for my own studio
 tags: design logo
 categories: design
 date:   2017-01-12 18:05:14 -0500
@@ -15,7 +15,7 @@ photos, which could be a great source of inspiration. The other day I ran into t
 
 <img style="width:100%;display:inline-block" alt="Low Fidelity Photo" src="{{ site.baseurl }}/public/images/1.jpg" />
 
-Despite that I faved it immediately because of the smooth gradient color and stunning reflection, I also found the far-side little 
+Despite faving it immediately because of the smooth gradient color and stunning reflection, I also found the far-side little 
 brother might be a good symbol for the logo because he seemed so relaxed. After doing some __image tracing__ 
 in Illustrator, I did, eventually, get a quite impressive output.
  
