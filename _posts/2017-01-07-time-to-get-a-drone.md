@@ -10,7 +10,7 @@ comments: true
 Yes I'm talking about the drones from DJI.
 
 When it comes to cameras or lenses (a drone is no more than an aerial camera to me), I don't buy them based on reviews.
-I buy them because of the outputs. 
+I buy them because of the output quality. 
 
 I've been subscribing a YouTube channel named [Shinji kawamura](https://www.youtube.com/channel/UClSREl_LUSDMrVlEhERqsNQ) 
 for a while and everytime he has a new drone video it'll literally stun me. Everytime. Check out the video below if you don't believe me.
