@@ -15,8 +15,8 @@ photos, which could be a great source of inspiration. The other day I ran into t
 
 <img style="width:100%;display:inline-block" alt="Low Fidelity Photo" src="{{ site.baseurl }}/public/images/1.jpg" />
 
-Despite faving it immediately because of the smooth gradient color and stunning reflection, I also found the far-side little 
-brother might be a good symbol for the logo because he seemed so relaxed. After doing some __image tracing__ 
+Despite faving it immediately because of the smooth gradient color and stunning reflection, I also found that the far-side little 
+brother might be a good symbol for the logo because he seemed so relaxed yet _dynamic_. After doing some __image tracing__ 
 in Illustrator, I did, eventually, get a quite impressive output.
  
 <img style="width:48%;display:inline-block" alt="Low Fidelity Photo" src="{{ site.baseurl }}/public/images/lf.gif" />

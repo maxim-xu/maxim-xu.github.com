@@ -634,3 +634,11 @@ a.pagination-item:hover {
   font-size: 10px;
   font-size: 0.625rem;
 }
+
+img[alt="logo"] {
+  width: 28px;
+  height: 28px;
+  display: inline-block;
+  vertical-align: middle;
+  margin: 0;
+}
