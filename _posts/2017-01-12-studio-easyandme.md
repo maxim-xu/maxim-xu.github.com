@@ -34,7 +34,7 @@ a two-color result.
 After reducing the __threshold__ value which determines how much of the image results in white and how much results in black when tracing as black and white, 
 I came up with the image above (right). Then I used the __Eraser tool__ to remove the unnecessary reflection and the __Pen tool__ to 
 make the vector even smoother, followed by drawing a circle to hold the shape - done! Now I just need to fill in some neutral 
-color as well as add some text, which I did:
+colors as well as add some text, which I did:
 
 <img style="width:50%;display:block; margin:0 auto" alt="final logo" src="{{ site.baseurl }}/public/images/1.png" />
 
