@@ -10,7 +10,7 @@ comments: true
 I'm far from a master of Adobe Illustrator (or Sketch), let alone a logo designer. But 
 if I just copy or buy a logo from somewhere else for the studio I own (even virtually), that'll be totally lame. 
 
-For designing a logo, it's common to find an interesting pattern from outside resources, such as 
+For designing a logo, it's common to find interesting patterns from outside resources, such as 
 photos, which could be a great source of inspiration. The other day I ran into this photo by [Laura Tidwell](https://www.flickr.com/photos/expeditions/6811371268/in/dateposted/), a Flickr friend of mine:
 
 <img style="width:100%;display:inline-block" alt="Low Fidelity Photo" src="{{ site.baseurl }}/public/images/1.jpg" />
