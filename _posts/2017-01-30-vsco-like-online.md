@@ -12,7 +12,7 @@ If you are a photographer, you probably know that there is also a VSCOFilm - a s
 for easy image filtering.
 
 
-The algorithms VSCO are using are pretty complicated, which means it's kind of hard to imitate. But if you simply type "VSCO online" into Google, 
+The algorithms VSCO used are pretty complicated, which means it's kind of hard to imitate. But if you simply type "VSCO online" into Google, 
 a website named [_VSCO-like Filters Online_](http://maxim-xu.github.io/vsco-like) would show up.
 
 <img style="width:100%;display:inline-block" alt="vsco online search result" src="{{ site.baseurl }}/public/images/vsco-online-search-result.png" />
