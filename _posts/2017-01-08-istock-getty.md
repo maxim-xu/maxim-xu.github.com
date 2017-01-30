@@ -41,6 +41,16 @@ passed the editor's review. I have listed them below:
 
 A good subject might really help you win in the application process.
 
+After submitting the photos, it takes a couple of weeks to get approved and show on the website.
+
+The watermarked photo would look like this:
+
+<img alt="watermarked lizard" src="{{ site.baseurl }}/public/images/watermark-lizard.jpg" />
+
+<img alt="watermarked lizard" src="{{ site.baseurl }}/public/images/watermark-2.jpg" />
+
+So _legit_!
+
 Update*: It seems that iStock is full of both photographers and 'wanna-be' photographers now. After
 doing some research, I realize that I was just over excited. Though the market has no sign of gloom and doom, 
 the chance to get yourself some notice on iStock is little. Downloads, which means profit from royalties, will very likely   be negligible too.
