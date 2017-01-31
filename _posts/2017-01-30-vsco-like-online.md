@@ -23,5 +23,12 @@ Yep. This is my work.
 I made it not because I am an expert of making filters or image research (which I'm definitely not), but because 
 no one else made a thing that allows people to apply VSCO image filters without installing anything.
 
-Or, to be more specific, I couldn't find anything if I google 'VSCO online' or 'VSCO filters online' 
+Or, to be more specific, I couldn't find anything if I google '_VSCO online_' or '_VSCO filters online_' 
 before I made it myself!
+
+Don't get me wrong. This is definitely _not_ something. You may wonder how I managed to make VSCO-like filters 
+onto the web. It's actually easier than you'd think.
+
+<img style="width:48%;display:inline-block; margin-left:0" alt="bw Photo" src="{{ site.baseurl }}/public/images/curve1.png" />
+
+
