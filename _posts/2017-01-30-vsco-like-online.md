@@ -1,6 +1,6 @@
 ---
 layout: post
-title: VSCO-like presets online, a side project
+title: VSCO-like filters online, a side project
 tags: image-research vsco
 categories: developer
 date:   2017-01-30 15:05:14 -0500
