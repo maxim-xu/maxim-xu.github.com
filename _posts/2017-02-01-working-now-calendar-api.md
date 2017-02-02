@@ -51,7 +51,7 @@ comments: true
    <body>
    <p id="title"><b>Select a time today:</b></p>
     <p id="onSelect">
-        <input readonly id="onSelectTime" type="text" class="time start" />
+        <input id="onSelectTime" type="text" class="time start" />
         <button id="apply">Apply Time</button>
     </p>
     <br />
@@ -121,6 +121,9 @@ comments: true
 
 
         $('#onSelect').datepair();
+        $('#onSelectTime').keypress(function(e) {
+                e.preventDefault();
+        });
 
         $('#apply').click(function() {
             if ($('#onSelectTime').val() !== "") {
