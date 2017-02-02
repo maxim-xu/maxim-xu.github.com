@@ -55,7 +55,8 @@ comments: true
    <p id="title"><b>Select a time today:</b></p>
     <p id="onSelect">
         <input id="onSelectTime" type="text" class="time start" />
-        <button id="apply">Apply Time</button>
+        <button id="apply">Apply Time</button><br/>
+        <small>*If you want to know who's working now, just refresh the page</small>
     </p>
     <br />
     <p id="tutors"></p>
