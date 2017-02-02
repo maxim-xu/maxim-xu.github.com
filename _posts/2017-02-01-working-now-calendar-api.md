@@ -38,6 +38,9 @@ comments: true
           #onSelect {
               margin-bottom: .75rem;
           }
+          #onSelectTime {
+              width: 100px;
+          }
           #apply {
               padding:5px;
               background-color: #fff;
@@ -51,7 +54,7 @@ comments: true
    <body>
    <p id="title"><b>Select a time today:</b></p>
     <p id="onSelect">
-        <select id="onSelectTime" type="text" class="time start" />
+        <input id="onSelectTime" type="text" class="time start" />
         <button id="apply">Apply Time</button>
     </p>
     <br />
