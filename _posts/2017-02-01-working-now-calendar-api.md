@@ -51,7 +51,7 @@ comments: true
    <body>
    <p id="title"><b>Select a time today:</b></p>
     <p id="onSelect">
-        <input id="onSelectTime" type="text" class="time start" />
+        <select id="onSelectTime" type="text" class="time start" />
         <button id="apply">Apply Time</button>
     </p>
     <br />
@@ -120,8 +120,7 @@ comments: true
         });
 
 
-        $('#onSelect').datepair();
-        $('#onSelectTime').prop('disabled', true);
+        $('#onSelect').datepair(); 
 
         $('#apply').click(function() {
             if ($('#onSelectTime').val() !== "") {
