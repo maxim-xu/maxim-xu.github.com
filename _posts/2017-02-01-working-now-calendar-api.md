@@ -121,9 +121,7 @@ comments: true
 
 
         $('#onSelect').datepair();
-        $('#onSelectTime').keypress(function(e) {
-                e.preventDefault();
-        });
+        $('#onSelectTime').prop('disabled', true);
 
         $('#apply').click(function() {
             if ($('#onSelectTime').val() !== "") {
