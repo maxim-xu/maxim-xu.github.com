@@ -23,8 +23,7 @@ comments: true
       <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/themes/ui-lightness/jquery-ui.css" type="text/css" media="all">
       <script src="http://jonthornton.github.io/Datepair.js/dist/datepair.js"></script>
       <script src="http://jonthornton.github.io/Datepair.js/dist/jquery.datepair.js"></script>
-      <script src="http://momentjs.com/downloads/moment.js"></script>
-
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.17.1/moment.min.js"></script>
       <style>
           body {
               height:100%;
@@ -53,8 +52,9 @@ comments: true
       </style>
   </head>
    <body>
-   <p id="title"><b>Select a time today:</b></p>
+   <p id="title"><b>Select a date & time:</b></p>
     <p id="onSelect">
+        <input id="onSelectDate" type="text" class="date start" />
         <input id="onSelectTime" type="text" class="time start" />
         <button id="apply">Apply Time</button><br/>
         <small>*If you want to know who's working now, just refresh the page</small>
@@ -63,7 +63,7 @@ comments: true
     <p id="tutors"></p>
 
     <script type="text/javascript">
-        var baseURL = "https://www.googleapis.com/calendar/v3/calendars/bentleycis@gmail.com/events?&timeMin=";
+        var baseURL = "https://www.googleapis.com/calendar/v3/calendars/bentleycis@gmail.com/events?&singleEvents=true&timeMin=";
         var APIKey = "&key=AIzaSyCfry1igXqQBivX0uiIzOiwdMyJV2F32XY";
         var currentTime = moment().format("YYYY-MM-DDTHH:mm:ssZ");
         var timeMax = moment().endOf('day').format("YYYY-MM-DDTHH:mm:ssZ");
@@ -80,6 +80,9 @@ comments: true
                     if (todayEvents[i].summary.includes("Emily")) {
                         todayEvents[i].summary = "Emilyk"
                     }
+                    if (todayEvents[i].summary.toLowerCase().includes("nicolette")) {
+                        todayEvents[i].summary = "Nicollette"
+                    }
                     if (currentTime >= todayEvents[i].start.dateTime && currentTime <= todayEvents[i].end.dateTime) {
 
                         $('#tutors').append('<div class="tutors"><p>' + todayEvents[i].summary + '</p>' + '<img src="' + imageBaseURL + todayEvents[i].summary.toLowerCase() + imageSize + '"/></div>');
@@ -88,6 +91,7 @@ comments: true
                         }
                 }
             );
+            console.log(baseURL + currentTime + "&timeMax=" + timeMax + APIKey);
         }
 
         init();
@@ -99,15 +103,19 @@ comments: true
             'minTime': '10:00',
             'maxTime': '23:00'
         });
-
+        $('#onSelect .date').datepicker({
+            'format': 'yyyy-mm-dd',
+            'autoclose': true
+        });
 
         $('#onSelect').datepair(); 
 
         $('#apply').click(function() {
-            if ($('#onSelectTime').val() !== "") {
-                var now = moment().format("YYYY-MM-DDTHH:mm:ssZ").slice(0,10);
+            if ($('#onSelectDate').val() !== "" && $('#onSelectTime').val() !== "") {
+                var $date = $('#onSelectDate').val() + "T";
                 var $time = $('#onSelectTime').val() + ":00-05:00";
-                currentTime = now + "T" + $time;
+                currentTime = $date + $time;
+                timeMax = $date + moment().endOf().format("YYYY-MM-DDTHH:mm:ssZ").slice(11);
                 $('.tutors').remove();
                 init();
             }
