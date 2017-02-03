@@ -109,7 +109,6 @@ comments: true
                         }
                 }
             );
-            console.log(baseURL + currentTime + "&timeMax=" + timeMax + APIKey);
         }
 
         init();
@@ -123,7 +122,8 @@ comments: true
         });
         $('#onSelect .date').datepicker({
             'format': 'yyyy-mm-dd',
-            'autoclose': true
+            'autoclose': true,
+             startDate : new Date()
         });
 
         $('#onSelect').datepair(); 
