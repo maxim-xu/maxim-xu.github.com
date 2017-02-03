@@ -66,9 +66,7 @@ comments: true
         var baseURL = "https://www.googleapis.com/calendar/v3/calendars/bentleycis@gmail.com/events?&timeMin=";
         var APIKey = "&key=AIzaSyCfry1igXqQBivX0uiIzOiwdMyJV2F32XY";
         var currentTime = moment().format("YYYY-MM-DDTHH:mm:ssZ");
-        var midnight = new Date();
-        midnight.setHours(34,0,0,0);
-        var timeMax = ISODateString(midnight);
+        var timeMax = moment().endOf('day').format("YYYY-MM-DDTHH:mm:ssZ");
         var todayEvents = [];
         var imageBaseURL = "http://cis.bentley.edu/sandbox/wp-content/uploads/TutorImage/";
         var imageSize = "-150x150.jpg";
@@ -91,22 +89,6 @@ comments: true
             );
         }
 
-        // convert date to RFC3339 timestamp
-        function pad(n) {
-            return n<10 ? '0'+n : n
-        }
-
-        function ISODateString(d) {
-            return d.getUTCFullYear()+'-'
-                + pad(d.getUTCMonth()+1)+'-'
-                + pad(d.getUTCDate())+'T'
-                + pad(d.getUTCHours())+':'
-                + pad(d.getUTCMinutes())+':'
-                + pad(d.getUTCSeconds())+'Z'
-        }
-
-
-
         init();
 
 
@@ -123,7 +105,7 @@ comments: true
         $('#apply').click(function() {
             if ($('#onSelectTime').val() !== "") {
                 var now = moment().format("YYYY-MM-DDTHH:mm:ssZ").slice(0,10);
-                var $time = $('#onSelectTime').val() + ":00Z";
+                var $time = $('#onSelectTime').val() + ":00-05:00";
                 currentTime = now + "T" + $time;
                 $('.tutors').remove();
                 init();
