@@ -148,7 +148,7 @@ comments: true
                 var $date = $('#onSelectDate').val() + "T";
                 var $time = $('#onSelectTime').val() + ":00-05:00";
                 currentTime = $date + $time;
-                timeMax = $date + moment().endOf().format("YYYY-MM-DDTHH:mm:ssZ").slice(11);
+                timeMax = $date + moment().endOf('day').format("YYYY-MM-DDTHH:mm:ssZ").slice(11);
                 $('.tutors').remove();
                 init();
             } else if ($('#onSelectDate').val() !== "" && $('#onSelectTime').val() == "") {
