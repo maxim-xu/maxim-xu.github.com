@@ -23,6 +23,7 @@ comments: true
       <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/themes/ui-lightness/jquery-ui.css" type="text/css" media="all">
       <script src="http://jonthornton.github.io/Datepair.js/dist/datepair.js"></script>
       <script src="http://jonthornton.github.io/Datepair.js/dist/jquery.datepair.js"></script>
+      <script src="http://momentjs.com/downloads/moment.js"></script>
 
       <style>
           body {
@@ -63,8 +64,8 @@ comments: true
 
     <script type="text/javascript">
         var baseURL = "https://www.googleapis.com/calendar/v3/calendars/bentleycis@gmail.com/events?&timeMin=";
-        var APIKey = "&key=AIzaSyCN8NNyQEJAeXf58TsoL2RdYj6Qn0EsmB0";
-        var currentTime = ISODateString(new Date());
+        var APIKey = "&key=AIzaSyCfry1igXqQBivX0uiIzOiwdMyJV2F32XY";
+        var currentTime = moment().format("YYYY-MM-DDTHH:mm:ssZ");
         var midnight = new Date();
         midnight.setHours(34,0,0,0);
         var timeMax = ISODateString(midnight);
@@ -99,19 +100,12 @@ comments: true
             return d.getUTCFullYear()+'-'
                 + pad(d.getUTCMonth()+1)+'-'
                 + pad(d.getUTCDate())+'T'
-                + pad(d.getUTCHours()-5)+':'
+                + pad(d.getUTCHours())+':'
                 + pad(d.getUTCMinutes())+':'
                 + pad(d.getUTCSeconds())+'Z'
         }
 
-        function convertPickerTime(d) {
-            return d.getUTCFullYear()+'-'
-                + pad(d.getUTCMonth()+1)+'-'
-                + pad(d.getUTCDate())+'T'
-                + pad(d.getUTCHours()-5)+':'
-                + pad(d.getUTCMinutes())+':'
-                + pad(d.getUTCSeconds())+'Z'
-        }
+
 
         init();
 
@@ -128,7 +122,7 @@ comments: true
 
         $('#apply').click(function() {
             if ($('#onSelectTime').val() !== "") {
-                var now = (new Date()).toISOString().slice(0,10);
+                var now = moment().format("YYYY-MM-DDTHH:mm:ssZ").slice(0,10);
                 var $time = $('#onSelectTime').val() + ":00Z";
                 currentTime = now + "T" + $time;
                 $('.tutors').remove();
