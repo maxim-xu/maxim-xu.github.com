@@ -38,8 +38,13 @@ comments: true
           #onSelect {
               margin-bottom: .75rem;
           }
+          #onSelectDate {
+              width: 120px;
+              font-size: 1em;
+          }
           #onSelectTime {
               width: 100px;
+              font-size: 1em;
           }
           #apply {
               padding:5px;
@@ -47,7 +52,19 @@ comments: true
               border: 1px solid #ddd;
               font-family: inherit;
               cursor: pointer;
-              margin-left: 4px;
+              margin: 12px 0 0 0;
+              display: inline-block;
+              font-size: 14px;
+          }
+          #now {
+              padding:5px;
+              background-color: #fff;
+              border: 1px solid #ddd;
+              font-family: inherit;
+              cursor: pointer;
+              margin: 12px 0 0 8px;
+              display: inline-block;
+              font-size: 14px;
           }
       </style>
   </head>
@@ -56,8 +73,9 @@ comments: true
     <p id="onSelect">
         <input id="onSelectDate" type="text" class="date start" />
         <input id="onSelectTime" type="text" class="time start" />
-        <button id="apply">Apply Time</button><br/>
-        <small>*If you want to know who's working now, just refresh the page</small>
+        <br />
+        <button id="apply">Apply Time</button>
+        <button id="now">Now</button><br />
     </p>
     <br />
     <p id="tutors"></p>
@@ -85,7 +103,7 @@ comments: true
                     }
                     if (currentTime >= todayEvents[i].start.dateTime && currentTime <= todayEvents[i].end.dateTime) {
 
-                        $('#tutors').append('<div class="tutors"><p>' + todayEvents[i].summary + '</p>' + '<img src="' + imageBaseURL + todayEvents[i].summary.toLowerCase() + imageSize + '"/></div>');
+                        $('#tutors').append('<div class="tutors"><p>' + todayEvents[i].summary + '</p>' + '<img src="' + imageBaseURL + todayEvents[i].summary.toLowerCase().replace(" ", "") + imageSize + '"/></div>');
 
                             }
                         }
@@ -119,6 +137,15 @@ comments: true
                 $('.tutors').remove();
                 init();
             }
+        });
+
+        $('#now').click(function() {
+                $('#onSelectDate').val('');
+                $('#onSelectTime').val('');
+                currentTime = moment().format("YYYY-MM-DDTHH:mm:ssZ");
+                timeMax = moment().endOf('day').format("YYYY-MM-DDTHH:mm:ssZ");
+                $('.tutors').remove();
+                init();
         });
 
        </script>
