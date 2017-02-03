@@ -72,20 +72,21 @@ comments: true
         var imageSize = "-150x150.jpg";
 
         function init() {
-        $.getJSON(baseURL + currentTime + "&timeMax=" + timeMax + APIKey, function(data){
+            todayEvents = [];
+            $.getJSON(baseURL + currentTime + "&timeMax=" + timeMax + APIKey, function(data){
             $.extend(todayEvents, data.items);
-        }).done(function() {
-            for (i=0;i<todayEvents.length;i++) {
-                if (todayEvents[i].summary.includes("Emily")) {
-                    todayEvents[i].summary = "Emilyk"
-                }
-                if (currentTime >= todayEvents[i].start.dateTime && currentTime <= todayEvents[i].end.dateTime) {
- 
-                    $('#tutors').append('<div class="tutors"><p>' + todayEvents[i].summary + '</p>' + '<img src="' + imageBaseURL + todayEvents[i].summary.toLowerCase() + imageSize + '"/></div>');
-
-                        }
+            }).done(function() {
+                for (i=0;i<todayEvents.length;i++) {
+                    if (todayEvents[i].summary.includes("Emily")) {
+                        todayEvents[i].summary = "Emilyk"
                     }
-            }
+                    if (currentTime >= todayEvents[i].start.dateTime && currentTime <= todayEvents[i].end.dateTime) {
+
+                        $('#tutors').append('<div class="tutors"><p>' + todayEvents[i].summary + '</p>' + '<img src="' + imageBaseURL + todayEvents[i].summary.toLowerCase() + imageSize + '"/></div>');
+
+                            }
+                        }
+                }
             );
         }
 
