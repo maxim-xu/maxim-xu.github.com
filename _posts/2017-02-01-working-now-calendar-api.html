@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Working Now Tutors via Google Calendar
+title: Sandbox Tutor Finder
 tags: cissandbox
 categories: developer
 date:   2017-01-30 15:05:14 -0500
@@ -30,11 +30,20 @@ comments: true
           }
           .tutors {
               display: inline-block;
-              margin-right: 30px;
+              margin-right: 20px;
+          }
+          .tutors p {
+              margin-bottom: .25em;
+          }
+          .tutors img {
+              cursor: pointer;
           }
           .notutors {
               font-size: 1.25em;
               color: #964242;
+          }
+          .tutor-schedule-headline:first-letter {
+              text-transform: uppercase;
           }
           #title {
               margin-bottom: 0;
@@ -73,7 +82,8 @@ comments: true
       </style>
   </head>
    <body>
-   <p id="title"><b>Select a date & time:</b></p>
+   <p>---------</p>
+   <p id="title"><b>Select a date & time (EST):</b></p>
     <p id="onSelect">
         <input id="onSelectDate" type="text" class="date start" />
         <input id="onSelectTime" type="text" class="time start" />
@@ -85,91 +95,116 @@ comments: true
         <br />
         <small>** Source: CIS Sandbox Group Calendar</small>
     </p>
-    <br />
-    <p id="tutors"></p>
+    <div id="content"></div>
+    <p>---------</p>
 
     <script type="text/javascript">
-        // author: Max Xu (xujialv@gmail.com)
+       $(function() {
+            'use strict';
+            var baseURL = "https://www.googleapis.com/calendar/v3/calendars/bentleycis@gmail.com/events?&singleEvents=true&orderBy=startTime&timeMin=";
+            var APIKey = "&key=AIzaSyBXwv2VXYi1Xd6w04suJlAc2bhSO57xr-Y";
+            var currentTime = moment().format("YYYY-MM-DDTHH:mm:ssZ");
+            var timeMax = moment().endOf('day').format("YYYY-MM-DDTHH:mm:ssZ");
+            var imageBaseURL = "http://cis.bentley.edu/sandbox/wp-content/uploads/TutorImage/";
+            var imageSize = "-150x150.jpg";
+            var allEvents = [];
 
-        var baseURL = "https://www.googleapis.com/calendar/v3/calendars/bentleycis@gmail.com/events?&singleEvents=true&timeMin=";
-        var APIKey = "&key=AIzaSyCfry1igXqQBivX0uiIzOiwdMyJV2F32XY";
-        var currentTime = moment().format("YYYY-MM-DDTHH:mm:ssZ");
-        var timeMax = moment().endOf('day').format("YYYY-MM-DDTHH:mm:ssZ");
-        var todayEvents = [];
-        var imageBaseURL = "http://cis.bentley.edu/sandbox/wp-content/uploads/TutorImage/";
-        var imageSize = "-150x150.jpg";
+            function getTutors() {
+                getEvents().done(function(){
+                    appendTutors(allEvents, currentTime);
+                });
 
-        function init() {
-            $('.notutors').remove();
-            todayEvents = []; // clear for re-init
-            $.getJSON(baseURL + currentTime + "&timeMax=" + timeMax + APIKey, function(data){
-            $.extend(todayEvents, data.items);
-            }).done(function() {
+            }
+
+            function getEvents() {
+                allEvents = []; // clear for each time change
+                return $.getJSON(baseURL + currentTime + "&timeMax=" + timeMax + APIKey, function(data) {
+                    $.extend(allEvents, data.items);
+                })
+            }
+
+            function appendTutors(events, time) {
                 var n = 0;
-                for (i=0;i<todayEvents.length;i++) {
-                    if (todayEvents[i].summary.includes("Emily")) {
-                        todayEvents[i].summary = "Emilyk"
+                for (var i = 0; i < events.length; i++) {
+                    if (events[i].summary.includes("Emily")) {
+                        events[i].summary = "Emilyk";
                     }
-                    if (todayEvents[i].summary.toLowerCase().includes("nicolette")) {
-                        todayEvents[i].summary = "Nicollette"
+                    if (events[i].summary.toLowerCase().includes("nicolette")) {
+                        events[i].summary = "Nicollette";
                     }
-                    if (currentTime >= todayEvents[i].start.dateTime && currentTime <= todayEvents[i].end.dateTime || currentTime.substr(11) == "00:00:00-05:00") {
-                        $('#tutors').append('<div class="tutors"><p>' + todayEvents[i].summary + '</p>' + '<img src="' + imageBaseURL + todayEvents[i].summary.toLowerCase().replace(" ", "") + imageSize + '"/></div>');
+                    if (time >= events[i].start.dateTime && time <= events[i].end.dateTime || time.substr(11) == "00:00:00-05:00") {
+                        $('#content').append('<div class="tutors" id="' + events[i].summary.toLowerCase().replace(/\s/g, "") + '"><p>' + events[i].summary + '</p>' + '<img src="' + imageBaseURL + events[i].summary.toLowerCase().replace(/\s/g, "") + imageSize + '"/></div>');
                     } else {
                         n += 1;
                     }
-                  }
-                    if (n === todayEvents.length) {
-                        $('#tutors').append('<div class="notutors"><p>There is no tutor working at this time</p></div>');
+                }
+                if (n === events.length) {
+                    $('#content').append('<div class="notutors"><p>There is no tutor working at this time</p></div>');
+                }
+            }
+
+            function getTutorSchedule(tutor, events) {
+                $('#content').append('<div class="tutor-schedule-headline">' + '<p>' + tutor + '\'s schedule till next week: </p></div>');
+                for (var i = 0; i < events.length; i++) {
+                    if (tutor == events[i].summary.toLowerCase()) {
+                        $('#content').append('<div class="tutor-schedule">' + events[i].start.dateTime.substr(0, 16).replace('T', ' ')  + ' -- ' + events[i].end.dateTime.substr(11, 5) + '</div>');
                     }
                 }
-            );
-        }
-
-        init();
-
-
-        $('#onSelect .time').timepicker({
-            'showDuration': false,
-            'timeFormat': 'H:i',
-            'minTime': '10:00',
-            'maxTime': '23:00'
-        });
-        $('#onSelect .date').datepicker({
-            'format': 'yyyy-mm-dd',
-            'autoclose': true,
-             startDate : new Date()
-        });
-
-        $('#onSelect').datepair(); 
-
-        $('#apply').click(function() {
-            if ($('#onSelectDate').val() !== "" && $('#onSelectTime').val() !== "") {
-                var $date = $('#onSelectDate').val() + "T";
-                var $time = $('#onSelectTime').val() + ":00-05:00";
-                currentTime = $date + $time;
-                timeMax = $date + moment().endOf('day').format("YYYY-MM-DDTHH:mm:ssZ").slice(11);
-                $('.tutors').remove();
-                init();
-            } else if ($('#onSelectDate').val() !== "" && $('#onSelectTime').val() == "") {
-                var $date = $('#onSelectDate').val() + "T";
-                var $time = $('#onSelectTime').val() + ":00-05:00";
-                currentTime = $date + moment().startOf('day').format("YYYY-MM-DDTHH:mm:ssZ").slice(11);
-                timeMax = $date + moment().endOf('day').format("YYYY-MM-DDTHH:mm:ssZ").slice(11);
-                $('.tutors').remove();
-                init();
             }
-        });
 
-        $('#now').click(function() {
+            function nowWorking() {
                 $('#onSelectDate').val('');
                 $('#onSelectTime').val('');
                 currentTime = moment().format("YYYY-MM-DDTHH:mm:ssZ");
                 timeMax = moment().endOf('day').format("YYYY-MM-DDTHH:mm:ssZ");
-                $('.tutors').remove();
-                init();
-        });
+                $('#content').empty();
+                getTutors();
+            }
 
+            function applyTime() {
+                var $date = $('#onSelectDate').val() + "T";
+                if ($('#onSelectDate').val() !== "" && $('#onSelectTime').val() !== "") {
+                    var $time = $('#onSelectTime').val() + ":00-05:00";
+                    currentTime = $date + $time;
+                } else if ($('#onSelectDate').val() !== "" && $('#onSelectTime').val() == "") {
+                    currentTime = $date + moment().startOf('day').format("YYYY-MM-DDTHH:mm:ssZ").slice(11);
+                }
+                timeMax = $date + moment().endOf('day').format("YYYY-MM-DDTHH:mm:ssZ").slice(11);
+                if ($('#onSelect .date').val() != "") {
+                    $('#content').empty();
+                }
+                getTutors();
+            }
+
+            $('#onSelect .time').timepicker({
+                'showDuration': false,
+                'timeFormat': 'H:i',
+                'minTime': '10:00',
+                'maxTime': '23:00'
+            });
+            $('#onSelect .date').datepicker({
+                'format': 'yyyy-mm-dd',
+                'autoclose': true,
+                 startDate: new Date()
+            });
+
+            $('#onSelect').datepair();
+            $('#apply').click(applyTime);
+            $('#now').click(nowWorking);
+
+            $('body').on('click', '.tutors img', function() {
+                var tutorID = this.parentNode.id;
+                currentTime = moment().format("YYYY-MM-DDTHH:mm:ssZ");
+                timeMax = moment().add(1, 'weeks').endOf('isoWeek').format("YYYY-MM-DDTHH:mm:ssZ");
+                $('#content').empty();
+                getEvents().done(function() {
+                    getTutorSchedule(tutorID, allEvents);
+                });
+            });
+
+
+            getTutors();
+       });
        </script>
   </body>
 </html>
