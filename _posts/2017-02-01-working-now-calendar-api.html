@@ -97,17 +97,20 @@ comments: true
     </p>
     <div id="content"></div>
     <p>---------</p>
+   <a href="https://github.com/maxim-xu/tutor-finder/blob/master/index.html" alt="source code"><small>Source Code</small></a>
+    <p><small>Dependencies: MomentJS, jQuery and jQuery UI (datepicker)</small></p>
 
     <script type="text/javascript">
        $(function() {
             'use strict';
+
             var baseURL = "https://www.googleapis.com/calendar/v3/calendars/bentleycis@gmail.com/events?&singleEvents=true&orderBy=startTime&timeMin=";
             var APIKey = "&key=AIzaSyBXwv2VXYi1Xd6w04suJlAc2bhSO57xr-Y";
             var currentTime = moment().format("YYYY-MM-DDTHH:mm:ssZ");
             var timeMax = moment().endOf('day').format("YYYY-MM-DDTHH:mm:ssZ");
             var imageBaseURL = "http://cis.bentley.edu/sandbox/wp-content/uploads/TutorImage/";
             var imageSize = "-150x150.jpg";
-            var allEvents = [];
+            var allEvents = []; //init
 
             function getTutors() {
                 getEvents().done(function(){
@@ -202,9 +205,9 @@ comments: true
                 });
             });
 
-
             getTutors();
        });
        </script>
+   <script>hljs.initHighlightingOnLoad();</script>
   </body>
 </html>
