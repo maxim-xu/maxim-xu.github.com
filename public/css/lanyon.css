@@ -99,16 +99,16 @@ a[data-flickr-embed="false"] > img {
  */
 
 .container {
-  max-width: 28rem;
+  max-width: 28em;
 }
 @media (min-width: 38em) {
   .container {
-    max-width: 32rem;
+    max-width: 32em;
   }
 }
 @media (min-width: 56em) {
   .container {
-    max-width: 38rem;
+    max-width: 38em;
   }
 }
 
