@@ -9,7 +9,7 @@ comments: true
 
 [__VSCO__](https://vsco.co) has been one of the most popular mobile apps for editing and filtering images. 
 If you are a photographer, you probably know that there is also a VSCOFilm - a set of Lightroom presets 
-for easy image filtering.
+for quick and dirty image filtering.
 
 
 The algorithms VSCO used are pretty complicated, which means it's kind of hard to imitate. But if you simply type "VSCO online" into Google, 

@@ -49,10 +49,10 @@ The watermarked photo would look like this:
 
 <img alt="watermarked lizard" src="{{ site.baseurl }}/public/images/watermark-2.jpg" />
 
-feels..._legit_.
+Feels..._legit_.
 
 Update*: It seems that iStock is full of both photographers and 'wanna-be' photographers now. After
-doing some research, I realize that I was just over excited. Though the market has no sign of gloom and doom, 
+doing some research, I realized that I was just over excited. Though the market has no sign of gloom and doom, 
 the chance to get yourself some notice on iStock is little. Downloads, which means profit from royalties, will very likely   be negligible too.
   
   
