@@ -36,7 +36,7 @@ an optical image stabilization in it. You may want to use lenses with similar fo
 
 <a data-flickr-embed="false"  href="https://www.flickr.com/photos/under_s/33271081485/in/dateposted-public/" title="_DSC1591"><img src="https://c1.staticflickr.com/3/2882/33271081485_0459476263_k.jpg" width="2048" height="1365" alt="_DSC1591"></a>
 
-You'll play with that a bit because when the light looks pretty, there will not be very much of it, and I do hope to shoot fully into nighttime because it would like 20 different pictures when you're up there.
+You'll play with that a bit because when the light looks pretty, there will not be very much of it, and I do hope to shoot fully into nighttime because it would be like 20 different pictures when you're up there.
 
 <a data-flickr-embed="false" href="https://www.flickr.com/photos/under_s/33149004731/" title="_DSC1639"><img style="max-height:2048px" src="https://c1.staticflickr.com/4/3746/33149004731_cb6d52877f_k.jpg" width="1365" height="2048" alt="_DSC1639">
 
