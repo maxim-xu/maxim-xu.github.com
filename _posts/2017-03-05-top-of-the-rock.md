@@ -43,6 +43,15 @@ You'll play with that a bit because when the light looks pretty, there will not 
 It's the sunset picture, it's the blue hour picture, it is the mix picture. 
 Just don't go in winter...
 
+*Update: If you are a stock photographer, please note that photos taken on the Top of the Rock are unsuitable for __commercial use without permission__. 
+Below is a screenshot of the reason that ___GettyImages_ rejected my photo__:
+
+<img style="width:80%;display:block; margin:0 auto" alt="getty rejection" src="{{ site.baseurl }}/public/images/rockfeller-getty.png" />
+
+[https://www.topoftherocknyc.com/policies/](https://www.topoftherocknyc.com/policies/)
+[http://wiki.gettyimages.com/rockefeller-center/](http://wiki.gettyimages.com/rockefeller-center/)
+
+
 <small>
-Click on any picture will take you to its corresponding Flickr page.<br/>
+Click on those photos will take you to its corresponding Flickr page.<br/>
 <i>all image credit: easyandme</i></small>
