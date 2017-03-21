@@ -71,5 +71,6 @@ a[data-flickr-embed="false"] > img {
 
     .photos img {
         margin-left: 0px;
+        height: 100%;
     }
 }
