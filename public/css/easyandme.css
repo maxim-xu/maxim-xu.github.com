@@ -29,16 +29,18 @@ a[data-flickr-embed="false"] > img {
     color: #000;
 }
 
-.photos {
-    margin-top: 20px;
-}
-
 .page .page-title {
     font-family: 'Roboto',"PT Sans", Helvetica, Arial, sans-serif;;
 }
 
+.photos {
+    margin-top: 20px;
+}
 
-
+.photos img {
+    float: left;
+    margin-left: 10px;
+}
 
 .photo-page-container {
     max-width: 50em;
@@ -50,11 +52,11 @@ a[data-flickr-embed="false"] > img {
 }
 @media (min-width: 38em) {
     .photo-page-container {
-        max-width: 32em;
+        max-width: 36em;
     }
 }
 @media (min-width: 56em) {
     .photo-page-container {
-        max-width: 52em;
+        max-width: 54em;
     }
 }
