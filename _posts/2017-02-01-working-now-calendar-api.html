@@ -137,7 +137,7 @@ comments: true
                     if (events[i].summary.toLowerCase().includes("nicolette")) {
                         events[i].summary = "Nicollette";
                     }
-                    if (time >= events[i].start.dateTime && time <= events[i].end.dateTime || time.substr(11) == "00:00:00-05:00") {
+                    if (time >= events[i].start.dateTime && time <= events[i].end.dateTime || time.substr(11, 9) == "00:00:00-") {
                         $('#content').append('<div class="tutors" id="' + events[i].summary.toLowerCase().replace(/\s/g, "") + '"><p>' + events[i].summary + '</p>' + '<img src="' + imageBaseURL + events[i].summary.toLowerCase().replace(/\s/g, "") + imageSize + '"/></div>');
                     } else {
                         n += 1;

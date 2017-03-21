@@ -1,0 +1,60 @@
+/* Flickr Embed */
+a[data-flickr-embed="false"] > img {
+    /* max-height: 384px; */
+    height: 100%;
+}
+
+/* Youtube Embed */
+.video-container {
+    position:relative;
+    padding-bottom:56.25%;
+    padding-top:30px;
+    height:0;
+    overflow:hidden;
+}
+
+.video-container iframe, .video-container object, .video-container embed {
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+}
+
+.personal-links a {
+    padding-left: 0;
+}
+
+.personal-links a:hover {
+    color: #000;
+}
+
+.photos {
+    margin-top: 20px;
+}
+
+.page .page-title {
+    font-family: 'Roboto',"PT Sans", Helvetica, Arial, sans-serif;;
+}
+
+
+
+
+.photo-page-container {
+    max-width: 50em;
+    margin-bottom: 7.5em;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+@media (min-width: 38em) {
+    .photo-page-container {
+        max-width: 32em;
+    }
+}
+@media (min-width: 56em) {
+    .photo-page-container {
+        max-width: 52em;
+    }
+}
