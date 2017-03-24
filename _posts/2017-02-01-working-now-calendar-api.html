@@ -169,7 +169,7 @@ comments: true
             function applyTime() {
                 var $date = $('#onSelectDate').val() + "T";
                 if ($('#onSelectDate').val() !== "" && $('#onSelectTime').val() !== "") {
-                    var $time = $('#onSelectTime').val() + ":00-05:00";
+                    var $time = $('#onSelectTime').val() + ":00Z";
                     currentTime = $date + $time;
                 } else if ($('#onSelectDate').val() !== "" && $('#onSelectTime').val() == "") {
                     currentTime = $date + moment().startOf('day').format("YYYY-MM-DDTHH:mm:ssZ").slice(11);
