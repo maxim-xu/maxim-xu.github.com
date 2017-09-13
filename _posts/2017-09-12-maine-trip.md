@@ -15,7 +15,7 @@ rented an Airbnb house and drove all the way from Boston for 3 hours - just to t
 bit of nature. 
 
 This place, although in Maine, was actually quite close to the White Mountains area in New Hampshire. Acadia was naturally our initial plan,
-but it was too touristy (and far and expensive) for __a group
+as most of us had never visited this famous national park, but it was too touristy (and far and expensive) for __a group
 of 10__ who spend most of the time together playing board games. Yes, we drive more than
 200 miles to find a place for playing board games!
 
