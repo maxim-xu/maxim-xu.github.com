@@ -77,6 +77,6 @@ just drinks and noodles!
 
 We cooked the delicious 炸酱面 (noodles with soybean sauce) and it was a treasure. 
 
-We did go hiking around and it was also much fun. Overall this airbnb experience
+We did go hiking around in the day and it was also much fun. Overall this airbnb experience
 was extremely wonderful and we unanimously agree that we would do a similar trip to Vermont
 in the foliage season this year.
