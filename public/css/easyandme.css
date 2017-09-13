@@ -30,7 +30,7 @@ a[data-flickr-embed="false"] > img {
 }
 
 .page .page-title {
-    font-family: 'Roboto',"PT Sans", Helvetica, Arial, sans-serif;;
+    font-family: 'Merriweather', "PT Sans", Helvetica, Arial, sans-serif;
 }
 
 
@@ -45,4 +45,27 @@ a[data-flickr-embed="false"] > img {
     float: left;
     margin-left: 10px;
     max-width: none;
+}
+
+body div.post p {
+    font-family: 'Merriweather', "PT Sans", Helvetica, Arial, sans-serif;
+    font-weight: 300;
+    text-align: justify;
+}
+
+body div.post figure {
+    -webkit-margin-start: 20px;
+    -webkit-margin-end: 20px;
+    text-align: center;
+}
+body div.post figure img {
+    margin-bottom: 3px;
+}
+body div.post figure video {
+    width: 320px;
+    max-width: 100%;
+}
+body div.post figure figcaption {
+    text-align: center;
+    color: #777;
 }
