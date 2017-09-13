@@ -7,7 +7,7 @@ date:   2017-9-12 19:05:14 -0400
 ---
 
 I tend to avoid Airbnb when I go on a vacation since its risk is always higher than chain hotels, but after my
-recent airbnb experience I just
+recent airbnb trip I just
 realized how much fun I had missed because of this.
 
 Two weeks ago we (me and my friends) spent a fantastic weekend in _Newry, Maine_ where we
