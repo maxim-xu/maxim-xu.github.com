@@ -61,7 +61,7 @@ playing all day - and we did!
 </figure>
 
 We played _Splendor_, _Risk_, and _Mahjong_ (麻将) and it was all fun and games until someone
-finally got hungry. In fact, cooking was the biggest problem here - you had to drive a dozen miles
+finally got hungry. In fact, cooking could be the biggest problem here - you had to drive a dozen miles
 to buy materials. Luckily we brought whatever we need for a two-day trip - all we ever needed was
 just drinks and noodles!
 
