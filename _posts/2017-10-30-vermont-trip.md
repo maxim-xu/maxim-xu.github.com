@@ -52,7 +52,7 @@ When we woke up the next morning, the view was astonishing even just from the in
 </figure>
 <figure class="inline">
  <img class="vertical-long-img" alt="balcony" src="{{ site.baseurl }}/public/images/vermont/bal1.jpg" />  
- <figcaption>attic bedroom from the balcony</figcaption>
+ <figcaption>attic bedroom</figcaption>
 </figure>
 <figure class="inline">
  <img class="vertical-long-img" alt="balcony" src="{{ site.baseurl }}/public/images/vermont/bal2.jpg" />  
