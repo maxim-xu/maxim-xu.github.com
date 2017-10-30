@@ -50,7 +50,7 @@ a[data-flickr-embed="false"] > img {
 body div.post p {
     font-family: 'Merriweather', "PT Sans", Helvetica, Arial, sans-serif;
     font-weight: 300;
-    text-align: justify;
+    text-align: left;
 }
 
 body div.post figure {
@@ -74,4 +74,9 @@ body div.post figure video {
 body div.post figure figcaption {
     text-align: center;
     color: #777;
+}
+@media (max-width: 480px) {
+    body div.post .vertical-long-img {
+        max-height: 180px;
+    }
 }
