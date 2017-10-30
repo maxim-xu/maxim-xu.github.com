@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Airbnb Experience In A Maine Forest
-tags: photography travel
+tags: photography travel newengland
 categories: personal
 date:   2017-9-12 19:05:14 -0400
 ---

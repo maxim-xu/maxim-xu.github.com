@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Our Vermont trip in 2017 Fall
-tags: photography travel
+tags: photography travel newengland
 categories: personal
 date:   2017-10-30 10:05:14 -0400
 ---
