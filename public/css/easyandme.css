@@ -58,8 +58,14 @@ body div.post figure {
     -webkit-margin-end: 20px;
     text-align: center;
 }
+body div.post figure.inline {
+    display: inline-block;
+}
 body div.post figure img {
     margin-bottom: 3px;
+}
+body div.post .vertical-long-img {
+    max-height: 360px;
 }
 body div.post figure video {
     width: 320px;
