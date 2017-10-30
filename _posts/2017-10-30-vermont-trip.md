@@ -76,11 +76,11 @@ When we woke up the next morning, the view was astonishing even just from the in
 </figure>
 <figure>
  <img alt="cable" src="{{ site.baseurl }}/public/images/vermont/t1.jpg" /> 
- <figcaption>group photo at stowe cable tour</figcaption>
+ <figcaption>group photo at Stowe cable tour</figcaption>
 </figure>
 <figure>
  <img alt="cable" src="{{ site.baseurl }}/public/images/vermont/t2.jpg" /> 
- <figcaption>group photo at stowe cable tour</figcaption>
+ <figcaption>group photo at Stowe cable tour</figcaption>
 </figure>
 
 Envy us :).
