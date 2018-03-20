@@ -58,18 +58,5 @@ I had a _wild_ plan of staying for more than 6 days in Tokyo - turned out it was
 </figure>
 
 <figure>
- <img alt="waterfront" src="{{ site.baseurl }}/public/images/japan2018/fuji1.jpg" />  
+ <img alt="Mt. Fuji" src="{{ site.baseurl }}/public/images/japan2018/fuji1.jpg" />  
 </figure>
-<figure>
- <img alt="waterfront" src="{{ site.baseurl }}/public/images/vermont/waterfront1.jpg" />  
-</figure>
-<figure>
- <img alt="waterfront" src="{{ site.baseurl }}/public/images/vermont/w4.jpg" /> 
-   <figcaption>sunset at Waterfront</figcaption>
-</figure>
-
-
-Our vacation house was in Waterbury, not far from Stowe which is a famous town for skiing and sightseeing. 
-It's very convenient to buy things from local markets so we didn't bring too many food materials this time. 
-When we woke up the next morning, the view was astonishing even just from the inside.
-
