@@ -27,7 +27,7 @@ I don't want to pretend that this was a just a casual trip. In fact, I never tho
 </figure>
 
 I was excited after arriving from a 12-hour long flight, Japan Airlines' JL7 (BOS - NRT) on Dec 29, two days before the New Year's Eve. 
-It's not my first visit to Japan, it certainly won't be the last one (but who knows), but it would be my first road trip. I knew it would be fun driving in Japan.
+It's not my first visit to Japan, it certainly won't be the last one (who knows), but it would be my first road trip. I knew it would be fun driving in Japan.
 
 But driving in Tokyo? Not so much. Expensive toll fees and parking problems could be painful, not to mention the heavy daily traffic.
  Plus, Tokyo already has probably the most convenient (and sophisticated) metro system in the world.
@@ -132,7 +132,7 @@ Karuizawa, and fun to watch.
  <img alt="Snowman in Karuizawa" src="{{ site.baseurl }}/public/images/japan2018/kr4.jpg" />  
 </figure>
 
-I heard it was best to take a bicycle tour to visit the place, and it was confirmed as we drove through the beautiful town. The sad thing was, we arrived at Karuizawa on a cold January day, so there wasn't really much we could do. 
+I heard it was best to take a bicycle tour to visit the place, and this was confirmed as we drove through the beautiful town. The sad thing was, we arrived at Karuizawa on a cold January day, so there wasn't really much we could do. 
 Museums and hiking trails were also closed during the winter season. 
 
 <figure>
