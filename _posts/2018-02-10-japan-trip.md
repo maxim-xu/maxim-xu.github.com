@@ -128,6 +128,9 @@ Karuizawa, and fun to watch.
 <figure>
  <img alt="Park in Karuizawa" src="{{ site.baseurl }}/public/images/japan2018/kr1.jpg" />  
 </figure>
+<figure>
+ <img alt="Snowman in Karuizawa" src="{{ site.baseurl }}/public/images/japan2018/kr4.jpg" />  
+</figure>
 
 I heard it was best to take a bicycle tour to visit the place, and it was confirmed as we drove through the beautiful town. The sad thing was, we arrived at Karuizawa on a cold January day, so there wasn't really much we could do. 
 Museums and hiking trails were also closed during the winter season. 
@@ -141,8 +144,30 @@ Museums and hiking trails were also closed during the winter season.
  <img alt="Misc" src="{{ site.baseurl }}/public/images/japan2018/kr3.jpg" />    
 </figure>
 
-We would love to try the Hoshino hot spring, but we already got one in our hotel room at Marriott - and we were heading to Kusatsu the next day. 
+We would love to try the Hoshino hot spring, but we already got one in our hotel room at Marriott, and we were heading to Kusatsu - the famous Onsen town - the next day. 
 
 <br>
 
 ## Kusatsu
+
+It was a fun drive to Kusatsu - we drove on Japan's national highways(一般国道) in Gunma Prefecture, where I saw the snow chain 
+road sign for the first time.
+
+<figure>
+ <img alt="Kusatsu" src="{{ site.baseurl }}/public/images/japan2018/ks0.jpg" />  
+ <figcaption>Yubatake at night</figcaption>  
+</figure>
+<figure>
+ <img alt="Kusatsu" src="{{ site.baseurl }}/public/images/japan2018/ks1.jpg" />   
+</figure>
+<figure>
+ <img alt="Kusatsu" src="{{ site.baseurl }}/public/images/japan2018/ks2.jpg" />   
+</figure>
+<figure>
+ <img alt="Kusatsu" src="{{ site.baseurl }}/public/images/japan2018/ks3.jpg" />   
+</figure>
+<figure>
+ <img alt="Kusatsu" src="{{ site.baseurl }}/public/images/japan2018/ks4.jpg" />   
+</figure>
+
+To be continued...
