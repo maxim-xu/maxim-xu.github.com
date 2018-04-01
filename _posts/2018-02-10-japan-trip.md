@@ -69,7 +69,7 @@ I had a _wild_ plan of staying for more than 6 days in Tokyo - it's great knowin
  <img alt="Tokyo" src="{{ site.baseurl }}/public/images/japan2018/tt02.jpg" />  
 </figure>
 
-For westerners, Michael Pronko's _[Motions and Moments](https://www.goodreads.com/book/show/28923865-motions-and-moments)_ 
+For Westerners, Michael Pronko's _[Motions and Moments](https://www.goodreads.com/book/show/28923865-motions-and-moments)_ 
 offers a great POV into the daily urban life of Tokyo. As a Chinese, I enjoyed trying to immerse myself into the 
 city, and imagine that I actually live here. I tried so much that I got tired of taking photos like a tourist, which I am.
  Now I am regretting.
@@ -150,8 +150,9 @@ We would love to try the Hoshino hot spring, but we already got one in our hotel
 
 ## Kusatsu
 
-It was a fun drive to Kusatsu - we drove on Japan's national highways(一般国道) in Gunma Prefecture, where I saw the snow chain 
-road sign for the first time.
+It was a fun drive to Kusatsu - we drove on Japan's national highways(国道292草津) in Gunma Prefecture, where I saw the snow chain 
+road sign for the first time. This highway has a famous section across the Shiga Highlands(国道292志賀高原段), known as the highest national highway
+ in Japan, and it's supposed to have incredible views. The sad thing is, again, that this part of roads were closed from November to April due to the heavy snow. Maybe next time!
 
 <figure>
  <img alt="Kusatsu" src="{{ site.baseurl }}/public/images/japan2018/ks0.jpg" />  
