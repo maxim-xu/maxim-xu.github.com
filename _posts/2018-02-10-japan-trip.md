@@ -19,7 +19,7 @@ __Kyoto__ - __Osaka__
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1v1hOEYUqEVo-Jsdm-3rQEy0PTak&hl=en" width="100%" height="480"></iframe>
 <br>
-I don't want to pretend that this was a just a casual trip. In fact, I never thought I would have a chance to
+I won't pretend that this was a just a casual trip. In fact, I never thought I would have a chance to
  go on a road trip in Japan before 30. I didn't know Japanese. I barely do now. It's really a dream come true.
 
 <figure>
@@ -105,7 +105,13 @@ Kamakura really is a perfect day-trip destination.
 <br>
 
 ## Karuizawa
-
+<figure>
+ <video controls> 
+ <source src="{{ site.baseurl }}/public/videos/japan/karuizawa.mp4" type="video/mp4">
+ Your browser does not support html5 video.
+ </video>
+ <figcaption>Driving in Karuizawa</figcaption>
+</figure>
 The drive from Tokyo to Karuizawa took us about two hours, mostly via Kan-etsu Expressway (関越自動車道) and Jōshin-etsu Expressway (上信越自動車道
 ). The Japanese Kanji of Karuizawa is "軽井沢". I really like its name for the casualness it conveys. "軽" means _light_,
 which is exactly what Karuizawa is - small, quiet and relaxing. It is also expensive, which is rare for rural Japanese areas. Maybe it's because
@@ -144,7 +150,7 @@ Museums and hiking trails were also closed during the winter season.
  <img alt="Misc" src="{{ site.baseurl }}/public/images/japan2018/kr3.jpg" />    
 </figure>
 
-We would love to try the Hoshino hot spring, but we already got one in our hotel room at Marriott, and we were heading to Kusatsu - the famous Onsen town - the next day. 
+We would love to try the Hoshino hot spring, but we already got one in our hotel room at Marriott, and we were heading to Kusatsu - the famous onsen town - the next day. 
 
 <br>
 
@@ -171,4 +177,5 @@ road sign for the first time. This highway has a famous section across the Shiga
  <img alt="Kusatsu" src="{{ site.baseurl }}/public/images/japan2018/ks4.jpg" />   
 </figure>
 
-To be continued...
+We stayed at one of the most expensive onsen hotels called _[Onsen Boun](http://www.hotelboun.com/english/)_. The interior wasn't
+as good as in the pictures but the onsen was the real deal, and it was absolutely beyond expectations. 
