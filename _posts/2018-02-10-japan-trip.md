@@ -156,6 +156,14 @@ We would love to try the Hoshino hot spring, but we already got one in our hotel
 
 ## Kusatsu
 
+<figure>
+ <video controls> 
+ <source src="{{ site.baseurl }}/public/videos/japan/karuizawa.mp4" type="video/mp4">
+ Your browser does not support html5 video.
+ </video>
+ <figcaption>Arriving in Kusatsu</figcaption>
+</figure>
+
 It was a fun drive to Kusatsu - we drove on Japan's national highways(国道292草津) in Gunma Prefecture, where I saw the snow chain 
 road sign for the first time. This highway has a famous section across the Shiga Highlands(国道292志賀高原段), known as the highest national highway
  in Japan, and it's supposed to have incredible views. The sad thing is, again, that this part of roads were closed from November to April due to the heavy snow. Maybe next time!
@@ -177,5 +185,12 @@ road sign for the first time. This highway has a famous section across the Shiga
  <img alt="Kusatsu" src="{{ site.baseurl }}/public/images/japan2018/ks4.jpg" />   
 </figure>
 
-We stayed at one of the most expensive onsen hotels called _[Onsen Boun](http://www.hotelboun.com/english/)_. The interior wasn't
-as good as in the pictures but the onsen was the real deal, and it was absolutely beyond expectations. 
+We stayed at one of the most expensive onsen hotels in Kusatsu, called _[Onsen Boun](http://www.hotelboun.com/english/)_. The interior wasn't
+as good as in the pictures but the onsen was the real deal, and it was absolutely beyond expectations. (Sorry no photos...)
+
+<br>
+
+## Kanazawa
+
+Thanks to the closed roads (mentioned above) on the north, we had to take 国道144 - 国道406 - 国道58 to get on the Joshin-etsu Expressway(上信越自動車道).
+The view was stunning!!
