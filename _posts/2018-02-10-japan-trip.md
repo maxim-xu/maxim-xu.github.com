@@ -158,7 +158,7 @@ We would love to try the Hoshino hot spring, but we already got one in our hotel
 
 <figure>
  <video controls> 
- <source src="{{ site.baseurl }}/public/videos/japan/karuizawa.mp4" type="video/mp4">
+ <source src="{{ site.baseurl }}/public/videos/japan/kusatsu.mp4" type="video/mp4">
  Your browser does not support html5 video.
  </video>
  <figcaption>Arriving in Kusatsu</figcaption>
@@ -193,4 +193,4 @@ as good as in the pictures but the onsen was the real deal, and it was absolutel
 ## Kanazawa
 
 Thanks to the closed roads (mentioned above) on the north, we had to take 国道144 - 国道406 - 国道58 to get on the Joshin-etsu Expressway(上信越自動車道).
-The view was stunning!!
+The view was stunning! Kanazawa is the first city I've visited in the Sea of Japan side. It feels quite special.
