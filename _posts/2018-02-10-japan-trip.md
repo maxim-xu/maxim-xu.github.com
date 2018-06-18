@@ -105,7 +105,7 @@ Kamakura really is a perfect day-trip destination.
 <br>
 
 ## Karuizawa
-<figure>
+<figure style="width: 240px" >
  <video controls> 
  <source src="{{ site.baseurl }}/public/videos/japan/karuizawa.mp4" type="video/mp4">
  Your browser does not support html5 video.
@@ -156,7 +156,7 @@ We would love to try the Hoshino hot spring, but we already got one in our hotel
 
 ## Kusatsu
 
-<figure>
+<figure style="width: 240px" >
  <video controls> 
  <source src="{{ site.baseurl }}/public/videos/japan/kusatsu.mp4" type="video/mp4">
  Your browser does not support html5 video.
@@ -193,4 +193,19 @@ as good as in the pictures but the onsen was the real deal, and it was absolutel
 ## Kanazawa
 
 Thanks to the closed roads (mentioned above) on the north, we had to take 国道144 - 国道406 - 国道58 to get on the Joshin-etsu Expressway(上信越自動車道).
-The view was stunning! Kanazawa is the first city I've visited in the Sea of Japan side. It feels quite special.
+We unintentionally passed by _Tsumagoi_ (嬬恋村), a highland village with stunning views, and came across some really twisted roads covered by ice and snow.⬇️⬇️
+ <figure style="display:inline-block">
+  <img alt="Google Maps" width="200" src="{{ site.baseurl }}/public/images/japan2018/map.jpg" />  
+ <figcaption>国道406</figcaption> 
+ </figure>
+<figure style="width: 200px; display:inline-block" >
+ <video controls> 
+ <source src="{{ site.baseurl }}/public/videos/japan/406.mp4" type="video/mp4">
+ Your browser does not support html5 video.
+ </video>
+ <figcaption>国道406</figcaption>
+</figure>
+
+Even the Expressway was not easy to drive, as the visibility may be quite low during snow. I was really amazed at how fast the snow removal was done on Japanese highways, otherwise the situation could be a lot worse.
+
+Kanazawa is the first city I've visited in the Sea of Japan side. It feels quite special.
