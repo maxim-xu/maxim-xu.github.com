@@ -208,4 +208,63 @@ We unintentionally passed by _Tsumagoi_ (嬬恋村), a highland village with stu
 
 Even the Expressway was not easy to drive, as the visibility may be quite low during snow. I was really amazed at how fast the snow removal was done on Japanese highways, otherwise the situation could be a lot worse.
 
-Kanazawa is the first city I've visited in the Sea of Japan side. It feels quite special.
+<figure class="inline">
+ <img class="vertical-long-img" alt="Yukitsuri" src="{{ site.baseurl }}/public/images/japan2018/yukitsuri.jpg" />  
+</figure>
+<figure class="inline">
+ <img class="vertical-long-img" alt="Kanazawa" src="{{ site.baseurl }}/public/images/japan2018/kanazawa.jpg" />  
+</figure>
+
+Kanazawa is the first city I've visited in the Sea of Japan side. Many features of Kanazawa’s cityscape have developed in response to the winter climate. 
+But unlike cities in Hokkaido, it has a much deeper cultural atmosphere. 
+> In the centre of Kanazawa, where the land suddenly rises into the slopes of a plateau, the ancient stone walls of Kanazawa Castle and the trees overhanging them seem traced in the monochromatic tones of ink paintings. On the adjacent hill, some eight thousand trees are hibernating under the heavy snow in Kenrokuen, the castle’s outer garden. Their branches bend with the weight of the snow over the landscaped pathways and ponds.
+
+<figure>
+ <img alt="yukitsuri" src="{{ site.baseurl }}/public/images/japan2018/yukitsuri2.jpg" />   
+ <figcaption>Yukitsuri</figcaption>
+</figure>
+<figure>
+ <img alt="yukitsuri" src="{{ site.baseurl }}/public/images/japan2018/yukitsuri3.jpg" />   
+ <figcaption>Yukitsuri</figcaption>
+</figure>
+
+> Each year before the onset of winter, poles are erected among the branches of the trees in Kenrokuen and rice-straw ropes suspended from their tops are attached to the branches to provide support against the snows of the Sea of Japan coast. These canopies of ropes, known as yukitsuri, shroud not only the vast aged trees, but also fragile younger trees and bushes. 
+
+I am not familiar with the interesting history of Kanazawa, but I really enjoyed walking in this city. It's like walking in Kyoto, though you would feel more isolated. A few steps away and you could be completely alone. 
+
+<figure>
+ <img alt="kanazawa" src="{{ site.baseurl }}/public/images/japan2018/kanazawa2.jpg" />   
+ <figcaption>ひがし茶屋街</figcaption>
+</figure>
+
+We were also lucky enough to witness the acrobatic performance from the firemen of Kanazawa's fire station(消防出初式). Totally unexpected!
+
+<figure>
+ <img alt="kanazawa" src="{{ site.baseurl }}/public/images/japan2018/kanazawa3.jpg" />   
+ <figcaption>梯子登り</figcaption>
+</figure>
+<figure>
+ <img alt="kanazawa" src="{{ site.baseurl }}/public/images/japan2018/kanazawa4.jpg" />   
+ <figcaption>梯子登り</figcaption>
+</figure>
+<figure>
+ <img alt="kanazawa" src="{{ site.baseurl }}/public/images/japan2018/kanazawa5.jpg" />   
+ <figcaption>梯子登り</figcaption>
+</figure>
+
+The Umeno Bridge(梅ノ橋) across the Asano river offers a nostalgistic feel as well as a great spot for portraiture photography.
+
+<figure style="width: 240px" >
+ <video controls> 
+ <source src="{{ site.baseurl }}/public/videos/japan/kanazawa.mp4" type="video/mp4">
+ Your browser does not support html5 video.
+ </video>
+ <figcaption>Leaving Kanazawa by Asano river</figcaption>
+</figure>
+
+<br>
+
+## Shirakawa
+
+To be continued...
+
