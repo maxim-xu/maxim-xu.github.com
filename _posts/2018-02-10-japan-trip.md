@@ -185,7 +185,7 @@ road sign for the first time. This highway has a famous section across the Shiga
  <img alt="Kusatsu" src="{{ site.baseurl }}/public/images/japan2018/ks4.jpg" />   
 </figure>
 
-We stayed at one of the most expensive onsen hotels in Kusatsu, called _[Onsen Boun](http://www.hotelboun.com/english/)_. The interior wasn't
+We stayed at one of the most expensive onsen hotels in Kusatsu, named _[Onsen Boun](http://www.hotelboun.com/english/)_. The interior wasn't
 as good as in the pictures but the onsen was the real deal, and it was absolutely beyond expectations. (Sorry no photos...)
 
 <br>
@@ -230,7 +230,7 @@ But unlike cities in Hokkaido, it has a much deeper cultural atmosphere.
 
 > Each year before the onset of winter, poles are erected among the branches of the trees in Kenrokuen and rice-straw ropes suspended from their tops are attached to the branches to provide support against the snows of the Sea of Japan coast. These canopies of ropes, known as yukitsuri, shroud not only the vast aged trees, but also fragile younger trees and bushes. 
 
-I am not familiar with the interesting history of Kanazawa, but I really enjoyed walking in this city. It's like walking in Kyoto, though you would feel more isolated. A few steps away and you could be completely alone. 
+I am not familiar with the interesting history behind Kanazawa, but I really enjoyed walking in this city. It's like walking in Kyoto, though you would feel more isolated here. A few steps away and you could be completely alone. 
 
 <figure>
  <img alt="kanazawa" src="{{ site.baseurl }}/public/images/japan2018/kanazawa2.jpg" />   
@@ -266,5 +266,41 @@ The Umeno Bridge(梅ノ橋) across the Asano river offers a nostalgistic feel as
 
 ## Shirakawa
 
-To be continued...
+Shirakawa was a famous traditional village in Gifu Prefecture, which is on our way from Kanazawa to Kyoto. 
+A pretty nice little town - also very touristy. We paid Shirakawa a short visit, so that we could check in our hotel in Hida before late night. 
 
+
+<figure>
+ <img alt="kanazawa" src="{{ site.baseurl }}/public/images/japan2018/shirakawa.jpg" />   
+ <figcaption>gassho-style house</figcaption>
+</figure>
+
+What I liked most about our hotel _[Hotel Kikori](https://www.google.com/search?q=hotel+kikori)_ that day, was that we could taste the lesser-known
+Hida beef without staying at the Hida city! Which turned out a huuuuge mistake - because the hida beef was soooo good!
+
+<figure>
+ <img alt="kanazawa" src="{{ site.baseurl }}/public/images/japan2018/kikori.jpg" />   
+ <figcaption>Our breakfirst at Hotel Kikori</figcaption>
+</figure>
+
+<figure style="width: 240px" >
+ <video controls> 
+ <source src="{{ site.baseurl }}/public/videos/japan/kikori.mp4" type="video/mp4">
+ Your browser does not support html5 video.
+ </video>
+ <figcaption>Our breakfirst at Hotel Kikori</figcaption>
+</figure>
+
+The delicious breakfast really gave us a wonderful mood for our drive down to Kyoto. The first half of this drive was also quite exciting, as
+we were in a snow world. See below:
+
+
+<figure style="width: 240px" >
+ <video controls> 
+ <source src="{{ site.baseurl }}/public/videos/japan/hida.mp4" type="video/mp4">
+ Your browser does not support html5 video.
+ </video> 
+</figure>
+<br>
+<br>
+  
