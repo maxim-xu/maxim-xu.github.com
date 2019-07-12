@@ -71,7 +71,7 @@ I had a _wild_ plan of staying for more than 6 days in Tokyo - it's great knowin
 
 For Westerners, Michael Pronko's _[Motions and Moments](https://www.goodreads.com/book/show/28923865-motions-and-moments)_ 
 offers a great POV into the daily urban life of Tokyo. As a Chinese, I enjoyed trying to immerse myself into the 
-city, and imagine that I actually live here. I tried so much that I got tired of taking photos like a tourist, which I am.
+city, and imagine that I actually live here. I tried so much that I got tired of taking photos like a tourist, which I was.
  Now I am regretting.
  
 <br>
@@ -206,7 +206,7 @@ We unintentionally passed by _Tsumagoi_ (嬬恋村), a highland village with stu
  <figcaption>国道406</figcaption>
 </figure>
 
-Even the Expressway was not easy to drive, as the visibility may be quite low during snow. I was really amazed at how fast the snow removal was done on Japanese highways, otherwise the situation could be a lot worse.
+Even the Expressway was not easy to drive, as the visibility may be quite low during snow. I was really impressed by how fast the snow removal was done on Japanese highways, otherwise the situation could be a lot worse.
 
 <figure class="inline">
  <img class="vertical-long-img" alt="Yukitsuri" src="{{ site.baseurl }}/public/images/japan2018/yukitsuri.jpg" />  
@@ -301,6 +301,8 @@ we were in a snow world. See below:
  Your browser does not support html5 video.
  </video> 
 </figure>
+
+## To be continued...
 <br>
 <br>
   
