@@ -79,7 +79,7 @@ Beppu in Oita Prefecture has been a famous onsen town in Japan. Not long before 
   <figcaption>十文字原展望台 Jumonji Viewpoint</figcaption>   
 </figure>
 
-Ocean cities with mountains in its back always tend to be popular, let alone Beppu is one of the biggest onsen towns in entire Japan. We stayed at two properties in Beppu to enjoy the different scenery (city view / ocean view).
+Ocean cities with mountains in its back always tend to be charming, let alone Beppu is one of the biggest onsen towns in entire Japan. It's less popular than Atami only because it's in Kyushu - too far away from Tokyo. We stayed at two properties in Beppu to enjoy the different sceneries (city view / ocean view).
 
 <figure>
  <img alt="Rental Car" src="{{ site.baseurl }}/public/images/japan2020/beppu/3.jpg" />  
@@ -89,6 +89,63 @@ Ocean cities with mountains in its back always tend to be popular, let alone Bep
 <figure>
  <img alt="Rental Car" src="{{ site.baseurl }}/public/images/japan2020/beppu/4.jpg" />  
   <figcaption>View from Suginoi Hotel</figcaption>   
+</figure>
+
+Beppu is also very close to Kunisaki Peninsula (国東半島), a peninsula with rich history and many interesting sightseeing spots. During the second day at Beppue, we visited Kitsuki, Futago-ji (両子寺) (center of the penisula), Bungotakada (豊後高田) and Usa (宇佐), all short drives between each other.
+
+<figure class="inline">
+ <img  class="vertical-long-img" alt="Kitsuki" src="{{ site.baseurl }}/public/images/japan2020/kitsuki/1.jpg" /> 
+   <figcaption>Kitsuki</figcaption>   
+</figure> 
+<figure class="inline">
+ <img  class="vertical-long-img" alt="Kitsuki" src="{{ site.baseurl }}/public/images/japan2020/kitsuki/2.jpg" /> 
+    <figcaption>Kitsuki</figcaption>
+</figure>  
+<figure class="inline">
+ <img  class="vertical-long-img" alt="Kitsuki" src="{{ site.baseurl }}/public/images/japan2020/kitsuki/3.jpg" /> 
+    <figcaption>Kitsuki</figcaption>
+</figure> 
+<figure class="inline">
+ <img  class="vertical-long-img" alt="Kitsuki Castle" src="{{ site.baseurl }}/public/images/japan2020/kitsuki/4.jpg" /> 
+    <figcaption>Kitsuki Castle</figcaption>
+</figure>
+
+<figure class="inline">
+ <img  class="vertical-long-img" alt="Futago-ji" src="{{ site.baseurl }}/public/images/japan2020/futago/1.jpg" /> 
+   <figcaption>Futago-ji</figcaption>   
+</figure> 
+<figure class="inline">
+ <img  class="vertical-long-img" alt="Futago-ji" src="{{ site.baseurl }}/public/images/japan2020/futago/2.jpg" /> 
+    <figcaption>Futago-ji</figcaption>
+</figure>  
+<figure class="inline">
+ <img  class="vertical-long-img" alt="Futago-ji" src="{{ site.baseurl }}/public/images/japan2020/futago/3.jpg" /> 
+    <figcaption>Futago-ji</figcaption>
+</figure> 
+<figure class="inline">
+ <img  class="vertical-long-img" alt="Futago-ji" src="{{ site.baseurl }}/public/images/japan2020/futago/4.jpg" /> 
+    <figcaption>Futago-ji</figcaption>
+</figure>
+
+<figure class="inline">
+ <img  class="vertical-long-img" alt="Bungotakada" src="{{ site.baseurl }}/public/images/japan2020/bungo/1.jpg" /> 
+    <figcaption>Bungotakada</figcaption>
+</figure> 
+<figure class="inline">
+ <img  class="vertical-long-img" alt="Bungotakada" src="{{ site.baseurl }}/public/images/japan2020/bungo/2.jpg" /> 
+    <figcaption>Bungotakada</figcaption>
+</figure>
+<figure class="inline">
+ <img  class="vertical-long-img" alt="Usa Jingū" src="{{ site.baseurl }}/public/images/japan2020/usa/1.jpg" /> 
+    <figcaption>Usa Jingū</figcaption>
+</figure> 
+<figure class="inline">
+ <img  class="vertical-long-img" alt="Usa Jingū" src="{{ site.baseurl }}/public/images/japan2020/usa/2.jpg" /> 
+    <figcaption>Usa Jingū</figcaption>
+</figure>
+<figure>
+ <img alt="Usa Jingūr" src="{{ site.baseurl }}/public/images/japan2020/usa/3.jpg" />  
+  <figcaption>Usa Jingū</figcaption>   
 </figure>
 
 <br>
