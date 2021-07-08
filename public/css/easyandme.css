@@ -61,7 +61,7 @@ body div.post figure {
 }
 body div.post figure.inline {
   display: inline-block;
-  margin: 4px 16px;
+  margin: 4px 16px 10px;
 }
 body div.post figure img {
   margin-bottom: 3px;
@@ -75,7 +75,7 @@ body div.post figure video {
 }
 body div.post figure figcaption {
   text-align: center;
-  color: #777;
+  color: #999;
 }
 @media (max-width: 480px) {
   body div.post .vertical-long-img {

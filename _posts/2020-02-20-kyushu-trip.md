@@ -91,7 +91,11 @@ Ocean cities with mountains in its back always tend to be charming, let alone Be
   <figcaption>View from Suginoi Hotel</figcaption>   
 </figure>
 
-Beppu is also very close to Kunisaki Peninsula (国東半島), a peninsula with rich history and many interesting sightseeing spots. During the second day at Beppue, we visited Kitsuki, Futago-ji (両子寺) (center of the penisula), Bungotakada (豊後高田) and Usa (宇佐), all short drives between each other.
+Beppu is also very close to Kunisaki Peninsula (国東半島), a peninsula with rich history and many interesting sightseeing spots. During the second day at Beppue, we visited Kitsuki, Futago-ji (両子寺) (center of the penisula), Bungotakada (豊後高田) and Usa (宇佐), all short drives between each other. I referred to this [note](https://www.douban.com/note/572838940/) (written in _Chinese_) a lot when I made my travel plans for this area.
+
+## Kitsuki
+
+Kitsuki is a small quiet city in Oita that overlooks the Beppu Bay. It is famous for its Jōkamachi (城下町, "castle town"), which is a historic site very suitable for a walk.
 
 <figure class="inline">
  <img  class="vertical-long-img" alt="Kitsuki" src="{{ site.baseurl }}/public/images/japan2020/kitsuki/1.jpg" /> 
@@ -110,6 +114,20 @@ Beppu is also very close to Kunisaki Peninsula (国東半島), a peninsula with 
     <figcaption>Kitsuki Castle</figcaption>
 </figure>
 
+After Kitsuki, we did a 30-minutes drive to Futago-ji (両子寺), the iconic temple at the center of Rokugo-Manzan (六郷満山, name of the mountain in the peninsula).
+
+<figure style="width: 360px" >
+ <video controls> 
+ <source src="{{ site.baseurl }}/public/videos/japan2020/futago.webm" type="video/webm">
+ Your browser does not support html5 video.
+ </video>
+ <figcaption>Arriving at Futago-Ji</figcaption>
+</figure>
+
+## Futago-ji
+
+The best season to visit Rokugo-Manzan (六郷満山) is the Fall, in which the temples and shrines will be decorated with lots of amazing foliage. Plus, it will be way less crowded than other famous foliage spots in Japan (Kyoto, for example).
+
 <figure class="inline">
  <img  class="vertical-long-img" alt="Futago-ji" src="{{ site.baseurl }}/public/images/japan2020/futago/1.jpg" /> 
    <figcaption>Futago-ji</figcaption>   
@@ -127,6 +145,15 @@ Beppu is also very close to Kunisaki Peninsula (国東半島), a peninsula with 
     <figcaption>Futago-ji</figcaption>
 </figure>
 
+After a respectful visit to Futago-ji, we headed to Bungotakada, a small city that became known because a famous [movie](https://en.wikipedia.org/wiki/Miracles_of_the_Namiya_General_Store) was filming there.
+
+## Bungotakada
+
+<figure>
+ <img alt="Rental Car" src="{{ site.baseurl }}/public/images/japan2020/bungo/movie.jpg" />  
+  <figcaption>Screenshot from ナミヤ雑貨店の奇蹟</figcaption>   
+</figure>
+
 <figure class="inline">
  <img  class="vertical-long-img" alt="Bungotakada" src="{{ site.baseurl }}/public/images/japan2020/bungo/1.jpg" /> 
     <figcaption>Bungotakada</figcaption>
@@ -135,6 +162,11 @@ Beppu is also very close to Kunisaki Peninsula (国東半島), a peninsula with 
  <img  class="vertical-long-img" alt="Bungotakada" src="{{ site.baseurl }}/public/images/japan2020/bungo/2.jpg" /> 
     <figcaption>Bungotakada</figcaption>
 </figure>
+
+## Usa
+
+We visited this part of the peninsula also to avoid taking the same road back to Beppu. the prestigious shrine Usa Jingu (宇佐神宮) is only ~10 minutes drive from Bungotakada. When we arrived at the shrine, there was only us.
+
 <figure class="inline">
  <img  class="vertical-long-img" alt="Usa Jingū" src="{{ site.baseurl }}/public/images/japan2020/usa/1.jpg" /> 
     <figcaption>Usa Jingū</figcaption>
@@ -145,6 +177,14 @@ Beppu is also very close to Kunisaki Peninsula (国東半島), a peninsula with 
 </figure>
 <figure>
  <img alt="Usa Jingūr" src="{{ site.baseurl }}/public/images/japan2020/usa/3.jpg" />  
+  <figcaption>Usa Jingū</figcaption>   
+</figure>
+<figure>
+ <img alt="Usa Jingūr" src="{{ site.baseurl }}/public/images/japan2020/usa/4.jpg" />  
+  <figcaption>Usa Jingū</figcaption>   
+</figure>
+<figure>
+ <img alt="Usa Jingūr" src="{{ site.baseurl }}/public/images/japan2020/usa/5.jpg" />  
   <figcaption>Usa Jingū</figcaption>   
 </figure>
 
