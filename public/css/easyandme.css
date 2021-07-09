@@ -55,8 +55,9 @@ body div.post p {
 }
 
 body div.post figure {
-  -webkit-margin-start: 20px;
-  -webkit-margin-end: 20px;
+  /* -webkit-margin-start: 20px;
+  -webkit-margin-end: 20px; */
+  margin: 20px 0;
   text-align: center;
 }
 body div.post figure.inline {
@@ -65,9 +66,11 @@ body div.post figure.inline {
 }
 body div.post figure img {
   margin-bottom: 3px;
+  pointer-events: none;
 }
 body div.post .vertical-long-img {
   max-height: 360px;
+  pointer-events: none;
 }
 body div.post figure video {
   width: 320px;
@@ -80,5 +83,9 @@ body div.post figure figcaption {
 @media (max-width: 480px) {
   body div.post .vertical-long-img {
     max-height: 180px;
+  }
+
+  body div.post figure figcaption {
+    font-size: 12px;
   }
 }
