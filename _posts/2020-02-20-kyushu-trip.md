@@ -25,7 +25,7 @@ date: 2020-02-20 10:05:14 -0400
 
 # Planning
 
-I booked two return award tickets from Boston to Fukuoka for my wife and myself this time. One booked with _Marriot Bonvoy_ points (transfered to _Japanese Airlines mileage_ with some bonus), the other booked with _Alaska Mileage_ directly. I'm not going into the details but booking with JAL miles directly does have a few advantages, the top two being:
+I booked two return award tickets from Boston to Fukuoka for my wife and myself this time. One booked with _Marriot Bonvoy_ points (transfered to _Japanese Airlines mileage_ with some bonus), the other booked with _Alaska Mileage_ directly. I'm not going into the details here but booking with JAL miles directly does have a few advantages, the top two being:
 
 - You can book multi stop tickets with the same amount of miles as just flying to Tokyo
 - You will have more available dates & seats for award tickets than booking with partner airlines
@@ -34,6 +34,8 @@ I booked two return award tickets from Boston to Fukuoka for my wife and myself 
  <img alt="waterfront" src="{{ site.baseurl }}/public/images/japan2020/jl7.jpeg" />  
   <figcaption>JL7 Sky Suite</figcaption>   
 </figure>
+
+The business (aka _Sky Suite_) class comes with the 787 plane is pretty comfortable, but a bit dated. If you are based in New York, the first class suite in JL5 / JL6 will be much fancier and thus worthier of redemption.
 
 # Arriving at Fukuoka
 
@@ -70,7 +72,9 @@ Some unique ryokans in the area:
 - [ホテル風早](http://www.kazahaya.com/)
 - [楓乃木](https://yabakei-funoki.net/) (Japanese Ryokan with French dinner!)
 
-## Beppu
+<br>
+
+## Beppu and Kunisaki Peninsula
 
 Beppu in Oita Prefecture has been a famous onsen town in Japan. Not long before our arrival, Beppu hosted Rugby World Cup 2019, which boosted its international fame as well as improved facilities to welcome foreigners.
 
@@ -79,7 +83,7 @@ Beppu in Oita Prefecture has been a famous onsen town in Japan. Not long before 
   <figcaption>十文字原展望台 Jumonji Viewpoint</figcaption>   
 </figure>
 
-Ocean cities with mountains in its back always tend to be charming, let alone Beppu is one of the biggest onsen towns in entire Japan. It's less popular than Atami only because it's in Kyushu - too far away from Tokyo. We stayed at two properties in Beppu to enjoy the different sceneries (city view / ocean view).
+Ocean cities with mountains in its back always tend to be charming, let alone Beppu is one of the biggest onsen towns in entire Japan. It is probably my favourate city in Kyushu - you will see why below. We stayed at two properties in Beppu to enjoy the different sceneries (city view / ocean view).
 
 <figure>
  <img alt="Rental Car" src="{{ site.baseurl }}/public/images/japan2020/beppu/3.jpg" />  
@@ -116,13 +120,9 @@ Kitsuki is a small quiet city in Oita that overlooks the Beppu Bay. It is famous
 
 After Kitsuki, we did a 30-minutes drive to Futago-ji (両子寺), the iconic temple at the center of Rokugo-Manzan (六郷満山, name of the mountain in the peninsula).
 
-<figure style="width: 360px" >
- <video controls> 
- <source src="{{ site.baseurl }}/public/videos/japan2020/futago.webm" type="video/webm">
- Your browser does not support html5 video.
- </video>
- <figcaption>Arriving at Futago-Ji</figcaption>
-</figure>
+<small>I uploaded some of my videos to YouTube and embedded them here so that I don't need to host them on my own blog server.</small>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZItEF-nmkvM?modestbranding=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Futago-ji
 
@@ -163,9 +163,11 @@ After a respectful visit to Futago-ji, we headed to Bungotakada, a small city th
     <figcaption>Bungotakada</figcaption>
 </figure>
 
+There weren't much to see other than that shopping street, so we didn't stay for too long in Bungotakada.
+
 ## Usa
 
-We visited this part of the peninsula also to avoid taking the same road back to Beppu. the prestigious shrine Usa Jingu (宇佐神宮) is only ~10 minutes drive from Bungotakada. When we arrived at the shrine, there was only us.
+We visited this part of the peninsula also to avoid taking the same road back to Beppu. The prestigious shrine Usa Jingu (宇佐神宮) is only ~10 minutes drive from Bungotakada. We were the only visitors when we arrived at the shrine.
 
 <figure class="inline">
  <img  class="vertical-long-img" alt="Usa Jingū" src="{{ site.baseurl }}/public/images/japan2020/usa/1.jpg" /> 
@@ -176,20 +178,74 @@ We visited this part of the peninsula also to avoid taking the same road back to
     <figcaption>Usa Jingū</figcaption>
 </figure>
 <figure>
- <img alt="Usa Jingūr" src="{{ site.baseurl }}/public/images/japan2020/usa/3.jpg" />  
+ <img alt="Usa Jingū" src="{{ site.baseurl }}/public/images/japan2020/usa/3.jpg" />  
   <figcaption>Usa Jingū</figcaption>   
 </figure>
 <figure>
- <img alt="Usa Jingūr" src="{{ site.baseurl }}/public/images/japan2020/usa/4.jpg" />  
+ <img alt="Usa Jingū" src="{{ site.baseurl }}/public/images/japan2020/usa/4.jpg" />  
   <figcaption>Usa Jingū</figcaption>   
 </figure>
 <figure>
- <img alt="Usa Jingūr" src="{{ site.baseurl }}/public/images/japan2020/usa/5.jpg" />  
+ <img alt="Usa Jingū" src="{{ site.baseurl }}/public/images/japan2020/usa/5.jpg" />  
   <figcaption>Usa Jingū</figcaption>   
 </figure>
+
+## Beppu City
+
+After a day trip to Kunisaki Peninsula, we returned to Beppu city and chose to stay at [REX HOTEL Beppu](http://rexhotel-beppu.co.jp/) for our second night. The property was stunningly new and clean - to an extent where all guests need to took off their shoes before entering the hotel building. Taking off shoes is somewhat common for traditional Japanese ryokans, but for a modern multi-level building? This was a first for me.
+
+<figure>
+ <img alt="Beppu" src="{{ site.baseurl }}/public/images/japan2020/beppu/5.jpg" />  
+  <figcaption>Sea view from the room balcony</figcaption>   
+</figure>
+<figure>
+ <img alt="Beppu" src="{{ site.baseurl }}/public/images/japan2020/beppu/6.jpg" />  
+  <figcaption>City view from the hallway</figcaption>   
+</figure>
+
+Some unique hotels in Beppu city:
+
+- [Amane Resort Seikai (潮騒の宿 晴海)](https://www.seikai.co.jp/)
+- [Amane Resort Gahama Terrace](https://gahamaterrace.com/)
+- [Sanso Kannawaen (山荘 神和苑)](http://kannawaen.jp)
+- [Terrace Midoubaru (テラス御堂原)](midoubaru)
+- [InterContinental - ANA Beppu Resort & Spa](https://www.ihg.com/intercontinental/hotels/jp/ja/beppu/oitky/hoteldetail)
+
+As mentioned above, Beppu is a city known for its natural hot springs - more interestingly - its _hells_ (地獄). The [Hells of Beppu](https://en.wikipedia.org/wiki/Hells_of_Beppu) are only for viewing rather than bathing, and they are a must see if you visit the area.
+
+<figure>
+ <img alt="Beppu" src="{{ site.baseurl }}/public/images/japan2020/beppu/7.jpg" />  
+  <figcaption>血池地獄 (blood pond hell)</figcaption>   
+</figure>
+<figure>
+ <img alt="Beppu" src="{{ site.baseurl }}/public/images/japan2020/beppu/8.jpg" />  
+  <figcaption>白池地獄 (white pond hell)</figcaption>   
+</figure>
+<figure>
+ <img alt="Beppu" src="{{ site.baseurl }}/public/images/japan2020/beppu/9.jpg" />  
+  <figcaption>海地獄 (sea hell)</figcaption>   
+</figure>
+
+Time didn't allow us to visit all of the famous _seven hells of Beppu_ (each of which is considered to be unique), but you probably get the idea. At the noon of our third day in Beppu, we headed south to Yufuin (由布院), another famous onsen town in Oita prefecture.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jskei57gbtE?modestbranding=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
+## Yufuin
+
+The drive from Beppu to Yufuin (Prefecture Route 11) is very relaxing and scenic - you either drive in a wooded area with trees on both sides, or you drive on a wide open road with mountains in your eyes.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hSg5vK3NhNs?modestbranding=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p></p>
+Even in winter, the scenery was quite amazing. If you decide to take a train, make sure to take the [Yufuin no Mori (ゆふいんの森)](https://www.jrkyushu.co.jp/english/train/yufuin_no_mori.html) JR train to enjoy the ride.
+<p></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6Iuxe9RJiYo?modestbranding=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p></p>
+Yufuin is a hot springs resort town surrounded by rich variety of nature.
+
+<br>
+<br>
 <br>
 
 ## To be continued...
