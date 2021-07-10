@@ -29,9 +29,9 @@ date: 2020-02-20 10:05:14 -0400
 
 # Planning
 
-I booked two return award tickets from Boston to Fukuoka for my wife and myself this time. One booked with _Marriot Bonvoy_ points (transfered to _Japanese Airlines mileage_ with some bonus), the other booked with _Alaska Mileage_ directly. I'm not going into the details here but booking with JAL miles directly does have a few advantages, the top two being:
+For this trip, I booked two return award tickets from Boston to Fukuoka for my wife and myself - one booked with _Marriot Bonvoy_ points (transfered to _Japanese Airlines mileage_ with some bonus), the other with _Alaska Mileage_ directly. I'm not going into the details here but booking with JAL miles directly has a few advantages, the top two being:
 
-- You can book multi stop tickets with the same amount of miles as just flying to Tokyo
+- You can book multi stop tickets (e.g. JFK - NRT - FUK) with the same amount of miles as just flying to Tokyo
 - You will have more available dates & seats for award tickets than booking with partner airlines
 
 <figure>
@@ -43,9 +43,9 @@ The business (aka _Sky Suite_) class comes with the 787 plane is pretty comforta
 
 # Arriving at Fukuoka
 
-We arrived around 9pm, and picked up our sedan at _Budget Car Rental Fukuoka AirPort_, which was the only rental shop open after 8pm.
+We arrived around 9pm, picked up our sedan at _Budget Car Rental Fukuoka AirPort_, which was the only rental shop open after 8pm.
 
-It was February, the coldest month in Kyushu so I added the extra snow tires, but it turns out not necessary. The road conditions are pretty good even in mountain areas in Kyushu and there will be timely snow removal in all major roads.
+It was February, the coldest month in Kyushu so I added the extra snow tires, but it turned out to be not necessary. The road conditions were pretty good even in mountain areas in Kyushu and there was timely snow removal in all major roads.
 
 I will probably skip snow tires in Kyushu next time to be able to book a wider range of rental car categories.
 
@@ -56,7 +56,7 @@ I will probably skip snow tires in Kyushu next time to be able to book a wider r
 
 # Hita
 
-Hida (日田) is a small city in Oita prefecture. We used it as our mid-day stop during our drive to Beppu. Traditional inns with hot springs sit beside its Mikuma River. There are Edo-era buildings in the Mamedamachi district and at the Kangien Academy Ruins.
+Hita (日田), a small city in Oita prefecture, is our first destination after a night's rest in Fukuoka. We used it as our mid-day stop during our drive to Beppu. Traditional inns with hot springs sit beside Hita's Mikuma River. There are Edo-era buildings in the Mamedamachi district and at the Kangien Academy Ruins.
 
 <figure>
  <img oncontextmenu="return false;" alt="Hita Street" src="{{ site.baseurl }}/public/images/japan2020/hita/1.jpg" />  
@@ -68,7 +68,7 @@ Hida (日田) is a small city in Oita prefecture. We used it as our mid-day stop
  <img oncontextmenu="return false;" class="vertical-long-img" alt="Hita" src="{{ site.baseurl }}/public/images/japan2020/hita/3.jpg" />  
 </figure>
 
-We wandered on the streets of Hita for a bit after lunch for Unagi Bento, then hit on road again. Apparently we missed the opportunity to explore Hita area a bit more and enjoy the onsens here, so I think we would stay for at least one night when we return.
+We wandered on the streets of Hita for a bit after lunch of Unagi Bento, then hit on road again. Apparently we missed the opportunity to explore Hita area a bit more and enjoy the onsens here, so I think we would stay for at least one night when we return.
 
 Some unique ryokans in the area:
 
@@ -80,21 +80,21 @@ Some unique ryokans in the area:
 
 ## Beppu and Kunisaki Peninsula
 
-Beppu in Oita Prefecture has been a famous onsen town in Japan. Not long before our arrival, Beppu hosted Rugby World Cup 2019, which boosted its international fame as well as improved facilities to welcome foreigners.
+The drive to Beppu through Oita Expressway (大分自動車道) passes the scenic Mount Yufu, which will be introduced later in this post.
 
 <small>I uploaded some of my videos to YouTube and embedded them here so that I don't need to host them on my own blog server.</small>
 
 <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/q3rFWPjxH3M?modestbranding=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <p></p>
 
-The drive to Beppu through Oita Expressway (大分自動車道) passes the scenic Mount Yufu, which will be introduced later in this post.
+Beppu is a famous onsen resort city in Japan. Not long before our arrival, it hosted Rugby World Cup 2019, which boosted its international fame as well as improved facilities to welcome foreigners.
 
 <figure>
  <img oncontextmenu="return false;" alt="Rental Car" src="{{ site.baseurl }}/public/images/japan2020/beppu/1.jpg" />  
   <figcaption>十文字原展望台 Jumonji Viewpoint</figcaption>   
 </figure>
 
-Ocean cities with mountains in its back always tend to be charming, let alone Beppu is one of the biggest onsen towns in entire Japan. It is probably my favourate city in Kyushu - you will see why below. We stayed at two properties in Beppu to enjoy the different sceneries (city view / ocean view).
+Ocean cities with mountains in its back always tend to be charming, let alone Beppu is one of the biggest onsen resort towns in entire Japan. It is probably my favourate city in Kyushu. We stayed at two properties in Beppu to enjoy the different types of scenery (city view / ocean view).
 
 <figure>
  <img oncontextmenu="return false;" alt="Rental Car" src="{{ site.baseurl }}/public/images/japan2020/beppu/3.jpg" />  
@@ -139,7 +139,7 @@ After Kitsuki, we did a 30-minutes drive to Futago-ji (両子寺), the iconic te
 
 ## Futago-ji
 
-The best season to visit Rokugo-Manzan (六郷満山) is the Fall, in which the temples and shrines will be decorated with lots of amazing foliage. Plus, it will be way less crowded than other famous foliage spots in Japan (Kyoto, for example).
+The best season to visit Rokugo-Manzan (六郷満山) is the fall, in which the temples and shrines will be decorated with lots of amazing foliage. Plus, it will be way less crowded than other famous foliage spots in Japan (Kyoto, for example).
 
 <figure class="inline">
  <img oncontextmenu="return false;"  class="vertical-long-img" alt="Futago-ji" src="{{ site.baseurl }}/public/images/japan2020/futago/1.jpg" /> 
@@ -226,6 +226,7 @@ After a day trip to Kunisaki Peninsula, we returned to Beppu city and chose to s
 
 Some unique hotels in Beppu city:
 
+- [界 別府 Kai Beppu](https://www.hoshinoresorts.com/en/resortsandhotels/kai/beppu.html)
 - [Amane Resort Seikai (潮騒の宿 晴海)](https://www.seikai.co.jp/)
 - [Amane Resort Gahama Terrace](https://gahamaterrace.com/)
 - [Sanso Kannawaen (山荘 神和苑)](http://kannawaen.jp)
@@ -314,6 +315,12 @@ Some recommended ryokans in Yufuin:
 <br>
 
 ## Kurokawa
+
+Yet another onsen resort town - Kurokawa is located in the middle of Kyushu about 20 kilometers north of Mount Aso. The drive to Kurokawa took longer than I expected, and we were late to check in at our ryokan at Kurokawa.
+
+<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/6ncFVqnemOo?modestbranding=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<p></p>
+Due to limited space, I will introduce the ryokan, [Takefue](http://www.takefue.com/english/index.html), in a standalone post.
 
 <br>
 <br>
