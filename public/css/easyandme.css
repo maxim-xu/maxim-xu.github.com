@@ -64,6 +64,9 @@ body div.post figure.inline {
   display: inline-block;
   margin: 4px 16px 10px;
 }
+body div.post figure.small > img {
+  max-width: 240px;
+}
 body div.post figure img {
   margin-bottom: 3px;
   pointer-events: none;

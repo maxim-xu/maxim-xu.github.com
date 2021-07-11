@@ -6,8 +6,7 @@ categories: personal travel
 date: 2020-02-20 10:05:14 -0400
 ---
 
-<!--
-<details>
+<!-- <details>
   <summary>Click to expand!</summary> -->
 
 **_Duration_**: <br>
@@ -263,7 +262,6 @@ The drive from Beppu to Yufuin (Prefecture Route 11) is very relaxing and scenic
 Even in winter, the scenery was quite amazing. If you decide to take a train, make sure to take the [Yufuin no Mori (ゆふいんの森)](https://www.jrkyushu.co.jp/english/train/yufuin_no_mori.html) JR train to enjoy the ride.
 <p></p>
 <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/6Iuxe9RJiYo?modestbranding=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-<!-- </details> -->
 <p></p>
 Yufuin is a hot springs resort town surrounded by rich variety of nature. The most prominent feature of Yufuin's skyline is the twin peaked Mount Yufu, which hovers over the town and serves as the backdrop for many scenic views.
 
@@ -313,6 +311,7 @@ Some recommended ryokans in Yufuin:
 - [山荘 吾亦紅](https://waremokou.business.site/)
 
 <br>
+<!-- </details> -->
 
 ## Kurokawa
 
@@ -320,7 +319,74 @@ Yet another onsen resort town - Kurokawa is located in the middle of Kyushu abou
 
 <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/6ncFVqnemOo?modestbranding=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <p></p>
-Due to limited space, I will introduce the ryokan, [Takefue](http://www.takefue.com/english/index.html), in a standalone post.
+
+The townscape is dominated by natural colors and materials, wooden buildings, earthen walls, stone stairs and a river flowing through. The town center, located in a forested valley, is compact and easily explored on foot, except for a few ryokan which are located less centrally (like ours).<sup>2</sup>
+
+<figure class="inline">
+ <img oncontextmenu="return false;"  class="vertical-long-img" alt="Yufuin" src="{{ site.baseurl }}/public/images/japan2020/kurokawa/1.jpg" /> 
+    <figcaption>Kurokawa</figcaption>
+</figure>
+
+<figure class="inline">
+ <img oncontextmenu="return false;"  class="vertical-long-img" alt="Yufuin" src="{{ site.baseurl }}/public/images/japan2020/kurokawa/2.jpg" /> 
+    <figcaption>Kurokawa</figcaption>
+</figure>
+
+<figure class="inline">
+ <img oncontextmenu="return false;"  class="vertical-long-img" alt="Yufuin" src="{{ site.baseurl }}/public/images/japan2020/kurokawa/3.jpg" /> 
+    <figcaption>Kurokawa</figcaption>
+</figure>
+
+<figure class="inline">
+ <img oncontextmenu="return false;"  class="vertical-long-img" alt="Yufuin" src="{{ site.baseurl }}/public/images/japan2020/kurokawa/4.jpg" /> 
+    <figcaption>Kurokawa</figcaption>
+</figure>
+
+Like many old onsen towns in Japan, Kurokawa's narrow streets can barely allow a car to pass through. Luckily, the town is quite small so it's perfectly accessible by foot.
+
+<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/ZbDdk7xG_tc?modestbranding=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<p></p>
+
+Due to limited space, I will introduce the ryokan we stayed at, [Takefue](http://www.takefue.com/english/index.html), in a standalone post. After a luxury stay at Takefue, we left Kurokawa and continued heading south into Aso.
+
+<br>
+
+## Aso
+
+Mount Aso (阿蘇山, Asosan) is an active volcano in the center of Kyushu. Its caldera ranks among the world's largest, with a diameter of up to 25 kilometers and a circumference of over 100 kilometers.<sup>3</sup>
+
+<figure class="inline">
+ <img oncontextmenu="return false;"  class="vertical-long-img" alt="Aso" src="{{ site.baseurl }}/public/images/japan2020/aso/1.png" /> 
+    <figcaption>flat rice fields in Aso</figcaption>
+</figure>
+
+We decided to have lunch in Aso city, and our route would pass Shiroyama Viewpoint, a famous lookout that offers nice views of the flat rice fields of Aso. Regretfully, for some reason I forgot to stop at the viewpoint, missing a great opportunity for some breathtaking photos.
+
+<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/sR03ryL8Ekw?modestbranding=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<p></p>
+
+The must-see attraction in the area is definitely the Aso-Kuju National Park (阿蘇くじゅう国立公園), however due to our tight schedule (again), I decided to skip it for our next Kyushu trip, and save the time for other spots instead. Winter is not the best season to enjoy the volcano national park anyway, I said to myself.
+
+We hiked in Kamishikimi Kumanoimasu Shrine (上色見熊野座神社), a shrine that requires visitors to walk up a long staircase decorated with moss covered stone lanterns through a cathedral like forest of cedar trees. We also visited Shirakawa Suigen (白川水源), a famous fountainhead offering ultra clear mineral water that bubbles up from underneath the earth.
+
+<figure class="inline">
+ <img oncontextmenu="return false;"  class="vertical-long-img" alt="Wakka" src="{{ site.baseurl }}/public/images/japan2020/aso/2.jpg" /> 
+    <figcaption>Wakka's guest house</figcaption>
+</figure>
+
+There are many choices of lodging in the area. After a luxury night in Kurokawa Onsen, and with frugality in mind, we chose to stay at [Wakka](https://www.booking.com/hotel/jp/wakka.html), a family-owned guesthouse that overlooks Mount Aso in Minamiaso (南阿蘇).
+
+<figure class="inline small">
+ <img oncontextmenu="return false;"  class="vertical-long-img" alt="Wakka guest room" src="{{ site.baseurl }}/public/images/japan2020/aso/3.jpg" /> 
+    <figcaption>Our guest room</figcaption>
+</figure>
+
+<figure class="inline small">
+ <img oncontextmenu="return false;"  class="vertical-long-img" alt="Wakka dinner" src="{{ site.baseurl }}/public/images/japan2020/aso/4.jpg" /> 
+    <figcaption>Homemade dinner for us</figcaption>
+</figure>
+
+The guest room was basic but had everything necessary. The owners of the guesthouse, a Japanese couple in their 50s, were super welcoming and kind. The price was very reasonable and it also included a homemade dinner and breakfast, which was nice. After this countryside stay, we took national route 325 (国道 325 号) to explore west Kyushu, instead of going further south into Kumamoto.
 
 <br>
 <br>
@@ -328,3 +394,5 @@ Due to limited space, I will introduce the ryokan, [Takefue](http://www.takefue.
 # references
 
 1. [https://www.japan-guide.com/e/e4750.html](https://www.japan-guide.com/e/e4750.html)
+2. [https://www.japan-guide.com/e/e4575.html](https://www.japan-guide.com/e/e4575.html)
+3. [https://www.japan-guide.com/e/e4552.html](https://www.japan-guide.com/e/e4552.html)
