@@ -388,6 +388,14 @@ There are many choices of lodging in the area. After a luxury night in Kurokawa 
 
 The guest room was basic but had everything necessary. The owners of the guesthouse, a Japanese couple in their 50s, were super welcoming and kind. The price was very reasonable and it also included a homemade dinner and breakfast, which was nice. After this countryside stay, we took national route 325 (国道 325 号) to explore west Kyushu, instead of going further south into Kumamoto.
 
+Recommended hotels in the Aso area:
+
+- [星野リゾート 界 阿蘇](https://kai-ryokan.jp/aso/)
+- [久住高原コテージ](https://www.kujukogen.com/)
+- [御宿 小笠原](https://onyado-ogasawara.com/)
+- [Minami Aso Luna Observatory](https://www.via.co.jp/en/)
+- [Luxury Camp Minamiaso](https://asoglamping.wixsite.com/mysite)
+
 <br>
 
 <!-- </details> -->
@@ -468,6 +476,11 @@ After a relaxing walk in Amano Yasukawara, we started the engine to drive onto N
  <img oncontextmenu="return false;"  class="vertical-long-img" alt="Heading to Hyuga" src="{{ site.baseurl }}/public/images/japan2020/takachiho/10.jpg" /> 
     <figcaption>Heading to Hyuga</figcaption>
 </figure>
+
+Recommended hotels in the Takachiho area:
+
+- [神仙](http://www.takachiho-shinsen.co.jp/)
+- [神隠れ](http://kamigakure.jp/)
 
 <br>
 <br>
