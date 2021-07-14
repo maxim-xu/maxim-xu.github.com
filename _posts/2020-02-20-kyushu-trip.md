@@ -45,14 +45,18 @@ The business (aka _Sky Suite_) class comes with the 787 plane is pretty comforta
 
 We arrived around 9pm, picked up our sedan at _Budget Car Rental Fukuoka AirPort_, which was the only rental shop open after 8pm.
 
+<figure class="inline small">
+ <img oncontextmenu="return false;" alt="Rental Car"  class="vertical-long-img" src="{{ site.baseurl }}/public/images/japan2020/budget.jpeg" />  
+  <figcaption>Picking at Budget</figcaption>   
+</figure>
+<figure class="inline small">
+ <img oncontextmenu="return false;" alt="Rental Car"  class="vertical-long-img" src="{{ site.baseurl }}/public/images/japan2020/car.jpg" />  
+  <figcaption>Our rental car</figcaption>   
+</figure>
+
 It was February, the coldest month in Kyushu so I added the extra snow tires, but it turned out to be not necessary. The road conditions were pretty good even in mountain areas in Kyushu and there was timely snow removal in all major roads.
 
 I will probably skip snow tires in Kyushu next time to be able to book a wider range of rental car categories.
-
-<figure>
- <img oncontextmenu="return false;" alt="Rental Car" src="{{ site.baseurl }}/public/images/japan2020/car.jpg" />  
-  <figcaption>Our rental car</figcaption>   
-</figure>
 
 # Hita
 
