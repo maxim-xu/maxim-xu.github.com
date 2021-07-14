@@ -6,7 +6,8 @@ categories: personal travel
 date: 2020-02-20 10:05:14 -0400
 ---
 
-<!-- <details>
+<!--
+<details>
   <summary>Click to expand!</summary> -->
 
 **_Duration_**: <br>
@@ -311,7 +312,6 @@ Some recommended ryokans in Yufuin:
 - [山荘 吾亦紅](https://waremokou.business.site/)
 
 <br>
-<!-- </details> -->
 
 ## Kurokawa
 
@@ -323,22 +323,22 @@ Yet another onsen resort town - Kurokawa is located in the middle of Kyushu abou
 The townscape is dominated by natural colors and materials, wooden buildings, earthen walls, stone stairs and a river flowing through. The town center, located in a forested valley, is compact and easily explored on foot, except for a few ryokan which are located less centrally (like ours).<sup>2</sup>
 
 <figure class="inline">
- <img oncontextmenu="return false;"  class="vertical-long-img" alt="Yufuin" src="{{ site.baseurl }}/public/images/japan2020/kurokawa/1.jpg" /> 
+ <img oncontextmenu="return false;"  class="vertical-long-img" alt="Kurokawa" src="{{ site.baseurl }}/public/images/japan2020/kurokawa/1.jpg" /> 
     <figcaption>Kurokawa</figcaption>
 </figure>
 
 <figure class="inline">
- <img oncontextmenu="return false;"  class="vertical-long-img" alt="Yufuin" src="{{ site.baseurl }}/public/images/japan2020/kurokawa/2.jpg" /> 
+ <img oncontextmenu="return false;"  class="vertical-long-img" alt="Kurokawa" src="{{ site.baseurl }}/public/images/japan2020/kurokawa/2.jpg" /> 
     <figcaption>Kurokawa</figcaption>
 </figure>
 
 <figure class="inline">
- <img oncontextmenu="return false;"  class="vertical-long-img" alt="Yufuin" src="{{ site.baseurl }}/public/images/japan2020/kurokawa/3.jpg" /> 
+ <img oncontextmenu="return false;"  class="vertical-long-img" alt="Kurokawa" src="{{ site.baseurl }}/public/images/japan2020/kurokawa/3.jpg" /> 
     <figcaption>Kurokawa</figcaption>
 </figure>
 
 <figure class="inline">
- <img oncontextmenu="return false;"  class="vertical-long-img" alt="Yufuin" src="{{ site.baseurl }}/public/images/japan2020/kurokawa/4.jpg" /> 
+ <img oncontextmenu="return false;"  class="vertical-long-img" alt="Kurokawa" src="{{ site.baseurl }}/public/images/japan2020/kurokawa/4.jpg" /> 
     <figcaption>Kurokawa</figcaption>
 </figure>
 
@@ -389,6 +389,87 @@ There are many choices of lodging in the area. After a luxury night in Kurokawa 
 The guest room was basic but had everything necessary. The owners of the guesthouse, a Japanese couple in their 50s, were super welcoming and kind. The price was very reasonable and it also included a homemade dinner and breakfast, which was nice. After this countryside stay, we took national route 325 (国道 325 号) to explore west Kyushu, instead of going further south into Kumamoto.
 
 <br>
+
+<!-- </details> -->
+
+## Takachiho
+
+Takachiho Gorge (高千穂峡, Takachiho-kyō) is a narrow chasm cut through the rock by the Gokase River. The nearly sheer cliffs lining the gorge are made of slow forming volcanic basalt columns which resemble the scales of a dragon where the stone twisted and flowed as it formed.<sup>4</sup>
+
+Before Takachiho Gorge though, we had a quick stop at Kunimigaoka Viewing Platform (国見ヶ丘展望台) - an observation deck to see the sea of clouds. Unfortunately the weather was not cooperative, so there was not much to see here.
+
+<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/jK2jScI2NBk?modestbranding=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<p></p>
+
+Visitors can enjoy the gorge from two perspectives. The first is from below which is done by rowing down the river. Rental boats are available at the south end of the gorge, and the water is calm and easy to navigate. This highly recommended route offers a close up view of the cliffs and waterfall.
+
+<figure class="inline">
+ <img oncontextmenu="return false;"  class="vertical-long-img" alt="Takachiho Gorge" src="{{ site.baseurl }}/public/images/japan2020/takachiho/1.jpg" /> 
+    <figcaption>Takachiho Gorge</figcaption>
+</figure>
+
+<figure class="inline">
+ <img oncontextmenu="return false;"  class="vertical-long-img" alt="Takachiho Gorge" src="{{ site.baseurl }}/public/images/japan2020/takachiho/2.jpg" /> 
+    <figcaption>Takachiho Gorge</figcaption>
+</figure>
+
+<figure class="inline">
+ <img oncontextmenu="return false;"  class="vertical-long-img" alt="Takachiho Gorge" src="{{ site.baseurl }}/public/images/japan2020/takachiho/3.jpg" /> 
+    <figcaption>Takachiho Gorge</figcaption>
+</figure>
+
+<figure class="inline">
+ <img oncontextmenu="return false;"  class="vertical-long-img" alt="Takachiho Gorge" src="{{ site.baseurl }}/public/images/japan2020/takachiho/4.jpg" /> 
+    <figcaption>Takachiho Gorge</figcaption>
+</figure>
+
+The second perspective, from above, is done by walking the paved path that runs along the edge of the gorge. There are beautiful views all along the way and at some points on the trail you can look practically straight down to the river below. The trail continues for about one kilometer, eventually leading to the Takachiho Shrine.
+
+The gorge was very pretty even in winter, but I think it will be much more colorful in other seasons.
+
+Takachiho, or rather Miyazaki Prefecture in general, is famous for many local products, including Wagyu.
+
+<figure class="inline">
+ <img oncontextmenu="return false;"  class="vertical-long-img" alt="Wakka" src="{{ site.baseurl }}/public/images/japan2020/takachiho/5.jpg" /> 
+    <figcaption>our BBQ lunch at Nagomi</figcaption>
+</figure>
+
+After a very delicious A5 Wagyu BBQ lunch, we headed to another tourist attraction in Takechiho, Amano Yasukawara (天安河原).
+
+<figure class="inline">
+ <img oncontextmenu="return false;"  class="vertical-long-img" alt="Leaving Takachiho to Amano Yasukawara" src="{{ site.baseurl }}/public/images/japan2020/takachiho/6.jpg" /> 
+    <figcaption>leaving Takachiho to Amano Yasukawara</figcaption>
+</figure>
+
+It is said to be the cave where the gods and goddesses met to discuss their strategy of luring Amaterasu out of hiding. The natural beauty of the cave and river lined by countless stacks of stones make Amano Yasukawara a place not to miss. <sup>5</sup>
+
+<figure class="inline">
+ <img oncontextmenu="return false;"  class="vertical-long-img" alt="Amano Yasukawara" src="{{ site.baseurl }}/public/images/japan2020/takachiho/7.jpg" /> 
+    <figcaption>Amano Yasukawara</figcaption>
+</figure>
+
+<figure class="inline">
+ <img oncontextmenu="return false;"  class="vertical-long-img" alt="Amano Yasukawara" src="{{ site.baseurl }}/public/images/japan2020/takachiho/8.jpg" /> 
+    <figcaption>Amano Yasukawara</figcaption>
+</figure>
+
+Follow the walking path by the Iwato River in Amano Yasukawara, you will reach Amano Iwato Shrine (天岩戸神社), where neat little piles of stones stacked along the river by previous visitors to mark their pilgrimage to this "power spot". Further along, the stacks become more numerous until you are surrounded by literally thousands of them as far as you can see.
+
+<figure class="inline">
+ <img oncontextmenu="return false;"  class="vertical-long-img" alt="Amano Iwato Shrine" src="{{ site.baseurl }}/public/images/japan2020/takachiho/9.jpg" /> 
+    <figcaption>Amano Iwato Shrine</figcaption>
+</figure>
+
+Again, as sacred as the shrine was, I think this place would be much more beautiful if visited in a season other than winter.
+
+After a relaxing walk in Amano Yasukawara, we started the engine to drive onto National Route 218 (国道 218 号) to further east, in the direction of our next stop - Hyuga.
+
+<figure class="inline">
+ <img oncontextmenu="return false;"  class="vertical-long-img" alt="Heading to Hyuga" src="{{ site.baseurl }}/public/images/japan2020/takachiho/10.jpg" /> 
+    <figcaption>Heading to Hyuga</figcaption>
+</figure>
+
+<br>
 <br>
 
 # references
@@ -396,3 +477,5 @@ The guest room was basic but had everything necessary. The owners of the guestho
 1. [https://www.japan-guide.com/e/e4750.html](https://www.japan-guide.com/e/e4750.html)
 2. [https://www.japan-guide.com/e/e4575.html](https://www.japan-guide.com/e/e4575.html)
 3. [https://www.japan-guide.com/e/e4552.html](https://www.japan-guide.com/e/e4552.html)
+4. [https://www.japan-guide.com/e/e8052.html](https://www.japan-guide.com/e/e8052.html)
+5. [https://www.japan-guide.com/e/e8054.html](https://www.japan-guide.com/e/e8054.html)
